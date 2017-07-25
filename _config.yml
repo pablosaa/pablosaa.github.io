@@ -1,2 +1,8 @@
-name: Pablo Saavedra's personal website
+title: Pablo Saavedra's personal website
+author: Pablo Saavedra-Garfias
+email: pablosaa@uni-bonn.de
+description: My personal WebSite
+twitter_username: gasaapa
+github_username: pablosaa
+
 markdown: kramdown
