@@ -40,3 +40,9 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.current {
+    background-color: #0005AA;
+    color: #999999;
+}
