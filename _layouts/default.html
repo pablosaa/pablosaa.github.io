@@ -1,21 +1,23 @@
 <!DOCTYPE html>
-	<html>
+	<html lang="en">
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/main.css">
 		</head>
-		<body>
+		<header>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">Projects</a></li>
-	        		<li><a href="/publications">Publications</a></li>
-              <li><a href="/talks">Contributions</a></li>
-              <li><a href="/other-stuff">Miselaneous</a></li>
-	        		<li><a href="/blog">Blog</a></li>
+	        		<li><a href="{{site.baseurl}}/">Home</a></li>
+		        	<li><a href="{{site.baseurl}}/about">Projects</a></li>
+	        		<li><a href="{{site.baseurl}}/publications">Publications</a></li>
+              			<li><a href="{{site.baseurl}}/talks">Contributions</a></li>
+              			<li><a href="{{site.baseurl}}/other-stuff">Miselaneous</a></li>
+	        		<li><a href="{{site.baseurl}}/blog">Blog</a></li>
 	    		</ul>
 			</nav>
+		</header>
+		</body>
 			<div class="container">
 			
 			{{ content }}
