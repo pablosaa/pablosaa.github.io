@@ -5,19 +5,10 @@
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/main.css">
 		</head>
-		<header>
-			<nav>
-	    		<ul>
-	        		<li><a href="{{site.baseurl}}/">Home</a></li>
-		        	<li><a href="{{site.baseurl}}/about">Projects</a></li>
-	        		<li><a href="{{site.baseurl}}/publications">Publications</a></li>
-              			<li><a href="{{site.baseurl}}/talks">Contributions</a></li>
-              			<li><a href="{{site.baseurl}}/other-stuff">Miselaneous</a></li>
-	        		<li><a href="{{site.baseurl}}/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-		</header>
-		</body>
+		<body>
+			<header>
+				{% include mainmenu.html %}
+			</header>
 			<div class="container">
 			
 			{{ content }}
@@ -25,6 +16,7 @@
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
+				<p>Copyright 2017, Pablo Saavedra-Garfias</p>
 	        		<li><a href="mailto:pablosaa@uni-bonn.de">email</a></li>
 	        		<li><a href="https://github.com/pablosaa">github.com/pablosaa</a></li>
 				</ul>
