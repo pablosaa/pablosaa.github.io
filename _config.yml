@@ -1,8 +1,10 @@
 title: Pablo Saavedra's personal website
 author: Pablo Saavedra-Garfias
 email: pablosaa@uni-bonn.de
-description: My personal WebSite
+description: My personal WebSite/Portfolio about my work and research
 twitter_username: gasaapa
 github_username: pablosaa
 
 markdown: kramdown
+baseurl: /pablosaa.github.io
+exclude: ['README.md']
