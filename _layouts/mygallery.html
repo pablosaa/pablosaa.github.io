@@ -1,0 +1,25 @@
+---
+layout: default
+title: Portfolio
+---
+
+<i>{{content}}</i>
+<table border="3" width="97%">
+  {% tablerow abbild in page.einheit cols:2 %}
+  <center>
+    <a id="atgallery" title="{{abbild.topic}}" href="{{abbild.linkto}}" target="_blank">
+      <h4>~ {{abbild.topic}} ~</h4>
+    {% if abbild.tag=='figure' %}
+      <figure>
+        <img src="{{abbild.bild}}" alt="{{abbild.topic}}" width="350px" height="auto">
+      </figure>
+      <p id="caption">{{abbild.caption}}</p>
+    {% elsif abbild.tag=='video' %}
+      <iframe width="350px" height="auto" src="{{abbild.bild}}" frameborder="0" allowfullscreen></iframe>
+      <p id="caption">{{abbild.caption}}</p>
+
+    {% endif %}
+  </a>
+  </center>
+  {% endtablerow %}
+</table>

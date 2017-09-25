@@ -1,0 +1,24 @@
+---
+layout: withcaratula
+---
+
+{{ content }}
+<table>
+  {% for infile in page.thecodes %}
+  {% capture tempmd %}{% include thecodes/{{infile.namefile }} %}{% endcapture %}
+  <hr/>
+  <div style="float:left;width:30%;">
+    <h3> <a alt="Link to code" href="{{site.github_username}}/{{infile.linkcode}}"> {{infile.name}} </a></h3>
+    {% if infile.codelogo %}
+      <img src="{{site.baseurl}}/{{infile.codelogo}}" style="width:90%;height:auto;" >
+    {% endif %}
+  </div>
+  <div>
+    <p>
+      {{ tempmd  | markdownify | slice:0,600 }}
+      ...See more at <a alt="Link to repository" href="{{site.github_username}}/{{infile.linkcode}}">Repository.</a>
+    </p>
+  </div>
+  <br />
+  {% endfor %}
+</table>

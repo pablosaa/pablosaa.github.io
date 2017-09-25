@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<p id="meinvorwort">{{ page.vorworte }}</p>
+<p style="text-align:right;">
+  {% if page.caratula %}
+    <img src="{{site.baseurl}}/{{ page.caratula }}" alt="{{ page.title }}" width="310px" height="auto">
+    {% else %}
+    <h3>{{ page.title }}</h3>
+  {% endif %}
+</p>
+<hr />
+{{ content }}
+<hr />
+<a  href="#top"><img alt="Back to TOP" src="{{site.baseurl}}/images/icons/top_arrow.png"></a>

@@ -4,22 +4,19 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/main.css">
+			<link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/images/icons/favicon.ico">
 		</head>
-		<body>
+		<body id="top">
 			<header>
 				{% include mainmenu.html %}
 			</header>
 			<div class="container">
-			
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
 			<footer>
-	    		<ul>
-				<p>Copyright 2017, Pablo Saavedra-Garfias</p>
-	        		<li><a href="mailto:pablosaa@uni-bonn.de">email</a></li>
-	        		<li><a href="https://github.com/pablosaa">github.com/pablosaa</a></li>
-				</ul>
+	    		{% include mainfoot.html %}
 			</footer>
 		</body>
 	</html>
