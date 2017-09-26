@@ -17,9 +17,9 @@ thecodes:
   - name: 'CBM08 Ceilometer'
     namefile: cbm08ceilo.md
     linkcode: CBM08_DataIO
-  - name: 'Optimal Retrieval'
+  - name: 'Integrated Profile technique'
     namefile: OptimRetTech.md
-    linkcode: OETprofiler
+    linkcode: IPT-FOR
 ---
 
 The list below are sorted by the newest -at the top- to the oldest one at the bottom. At their corresponding repositories I do specify whether the code's development is still active or not (some old codes are not):
