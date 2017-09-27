@@ -15,7 +15,6 @@ caratula: images/fronts/pencil.png
 ***
 
 ## Research Projects ##
-<!-- ![for2131 logo](https://www.meteo.uni-bonn.de/images-1/logofor2131.png){:style="float: right; margin-right:7px; margin-top: 7px;"} -->
 ![for2131 show]({{site.baseurl}}/images/projects/TB_SMAPcube.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
 **FOR2131**, *Sub-Project P2*: Scale-Problem in Assimilation of Passive Microwave Observations into Coupled Models.
 My main work is to generate virtual satellite observations alike the measurements performed by the ESA SMOS and the NASA SMAP satellites. Both satellites carry on board passive Microwave radiometers, and their measurements are mainly used to retrieve land surface properties like soil moisture. [[for2131 website](http://www.for2131.de)]

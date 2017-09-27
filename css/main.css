@@ -140,28 +140,35 @@ ul.posts li {
 
 #icon_github:hover {
   fill: #666666; /*fill: #080707;*/
-  title: "my GitHub";
+  title: "GitHub";
 }
 #icon_insta:hover {
   fill: #E4405F;
+  title: "Instagram";
 }
 #icon_twitter:hover {
   fill: #1DA1F2;
+  title: "Twitter";
 }
 #icon_skype:hover {
   fill: #00AFF0;
+  title: "Skype";
 }
 #icon_facebook:hover {
   fill: #3B5998;
+  title: "FB";
 }
 #icon_email:hover {
   fill: #909100;
+  title: "eMail me!";
 }
 #icon_rgate:hover {
   fill: #00D1AF;
+  title: "ResearchG";
 }
 #icon_linkedin:hover {
   fill: #0077B5;
+  title: "Lin";
 }
 /*youTube #CD201F, LinkedIn #0077B5, PayPal #00457C, Jekyll #CC0000 */
 
