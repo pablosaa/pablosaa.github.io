@@ -29,7 +29,7 @@ nav.mainmenu ul li{
   list-style: none;
   background-color: none;
   color: black;
-  padding: 35px 20px 25px 20px;
+  padding: 25px 10px 20px 10px;
 }
 
 a {
@@ -46,7 +46,7 @@ h1 {
 }
 h2 {
   font-size: 2em;
-  font-family: 'fantasy','Bookman','Palatino','Arial';
+  font-family: 'fantasy','Bookman','Palatino','Times';
   font-weight: lighter;
 }
 p {
@@ -176,7 +176,9 @@ ul.posts li {
 .fa {
   padding: 40px 10px 40px 10px;
   font-size: 30px;
-  width: 150px;
+  width: 20%;
+  padding-top: 7%;
+  position: relative;
   text-align: center;
   text-decoration: none;
   border-radius: 15%;
@@ -192,9 +194,6 @@ ul.posts li {
   position: relative;
   transition: 0.5s;
 }
-.fa:hover span {
-  padding-right: 33px;
-}
 .fa:hover span:after {
   opacity: 1;
   right: 0;
@@ -204,20 +203,26 @@ ul.posts li {
   color: white;
   font-family: Hermetic;
   font-weight: 100;
+  font-size: 2.7vw;
 }
 .fa-science span:after {
   content: "?";
   position: absolute;
   opacity: 0;
   top: 0;
-  right: -20px;
+  right: -5px;
   transition: 0.5s;
 }
+.fa-science:hover span {
+  padding-right: 20px;
+}
+
 .fa-coding {
   background: #1a1a1a;
   color: #e68a00;
   font-family: monospace;
   font-weight: normal;
+  font-size: 2.7vw;
 }
 .fa-coding span:after {
   content: "++";
@@ -227,26 +232,36 @@ ul.posts li {
   right: -20px;
   transition: 0.5s;
 }
+.fa-coding:hover span {
+  padding-right: 35px;
+}
+
 .fa-portfolio {
   background: #668cff;
   font-family: Utopia;
   font-style: italic;
   font-size: 30px;
   color: black;
+  font-size: 2.7vw;
 }
 .fa-portfolio span:after {
-  content: "...";
+  content: ":";
   position: absolute;
   opacity: 0;
   top: 0;
   right: -20px;
   transition: 0.5s;
 }
+.fa-portfolio:hover span {
+  padding-right: 10px;
+}
+
 .fa-about {
   background: #00586d;
   font-family: courier;
   color: yellow;
   font-weight: bolder;
+  font-size: 2.7vw;
 }
 .fa-about span:after {
   content: " me";
@@ -255,6 +270,9 @@ ul.posts li {
   top: 0;
   right: -2px;
   transition: 0.5s;
+}
+.fa-about:hover span {
+  padding-right: 45px;
 }
 
 /* FLAGS */

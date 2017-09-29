@@ -1,5 +1,5 @@
-<h2>Hello!<br/>
+<h2>Hello..!<br/>
 Welcome to my WebSite<br/>
-my name is <em>Pablo Saavedra Garfias</em><br/>
-a Research scientist living in Bonn, Germany<br/>
+I'm <em>Pablo Saavedra Garfias</em><br/>
+a Research Scientist living in Bonn, GE<br/>
 </h2>
