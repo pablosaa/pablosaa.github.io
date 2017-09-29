@@ -45,8 +45,8 @@ h1 {
     font-family:'Utopia', 'Arial', 'Sans-Serif';
 }
 h2 {
-  font-size: 2em;
-  font-family: 'fantasy','Bookman','Palatino','Times';
+  font-size: 1.9em;
+  font-family: 'Sawasdee','Bookman','Palatino','Times';
   font-weight: lighter;
 }
 p {
@@ -201,7 +201,7 @@ ul.posts li {
 .fa-science {
   background: #334d4d;
   color: white;
-  font-family: Hermetic;
+  font-family: 'Purisa','Hermetic';
   font-weight: 100;
   font-size: 2.7vw;
 }
@@ -226,6 +226,7 @@ ul.posts li {
 }
 .fa-coding span:after {
   content: "++";
+  font-size: 2vw;
   position: absolute;
   opacity: 0;
   top: 0;
@@ -233,7 +234,7 @@ ul.posts li {
   transition: 0.5s;
 }
 .fa-coding:hover span {
-  padding-right: 35px;
+  padding-right: 30px;
 }
 
 .fa-portfolio {
@@ -265,6 +266,7 @@ ul.posts li {
 }
 .fa-about span:after {
   content: " me";
+  font-size: 2.5vw;
   position: absolute;
   opacity: 0;
   top: 0;
@@ -272,7 +274,7 @@ ul.posts li {
   transition: 0.5s;
 }
 .fa-about:hover span {
-  padding-right: 45px;
+  padding-right: 47px;
 }
 
 /* FLAGS */
