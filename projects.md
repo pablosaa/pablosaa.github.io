@@ -8,8 +8,8 @@ caratula: images/fronts/pencil.png
 
 [ Projects ](#research-projects){:style="background-color: white;"} |
 [ Field Campaigns ](#field-experiments){:style="background-color: white;"} |
-[ Publications ]({{site.baseurl}}/publications){:style="background-color: white;"} |
-[ Conferences ]({{site.baseurl}}/conferences){:style="background-color: white;"} |
+[ Publications ](publications){:style="background-color: white;"} |
+[ Conferences ](conferences){:style="background-color: white;"} |
 [ Submitted Proposals ](#research-proposals){:style="background-color: white;"}
 
 ***
@@ -23,10 +23,10 @@ My main work is to generate virtual satellite observations alike the measurement
 **GPM/GV**, *Global Precipitation Measurement*: _Ground Validation_ for satellite precipitation measurements and retrievals by the NASA GPM satellite. Validation is mainly pursued by the University of Bonn X-band polarimetric radar (BoXPol). Currently I am co-supervising Velibort Pejcic in his Ph.D. work at the Meteorological Institute University of Bonn. [[BonnGV](http://www2.meteo.uni-bonn.de/admirari/gpmgv)]
 
 ### Past Projects ###
-![admirari show]({{site.baseurl}}/images/projects/admi_rad.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
+![admirari show]({{site.baseurl}}/images/projects/admi_rad.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 25%"}
 **ADMIRARI**, *ADvanced MIcrowave RAdiometer for Rain Identification*: The radiometer ADMIRARI is a passive microwave dual-polarization triple-frequency radiometer and was developed for ground-based observation of the precipitation atmosphere. My responsibilities in this project ranged from instrument curator, technical development, measurements and mainly the development of a retrieval technique to estimate simultaneously the cloud and rain liquid water content in precipitating atmosphere. [[ADMIRARI website](http://www2.meteo.uni-bonn.de/admirari)]
 
-[![TO TOP]({{site.baseurl}}/images/icons/top_arrow.png)](#top)
+[![TO TOP](/images/icons/top_arrow.png)](#top)
 
 ## Field Experiments ##
 <ul><li>
@@ -48,7 +48,7 @@ My main work is to generate virtual satellite observations alike the measurement
 </li><li>
 <p class="discreet"><strong>(Student Volunteer) Juipy-Taya, Agust-September 2003, Bolivian Southern Altiplano</strong>,<br />(Institutions involved: MIM / Uni Munich / Uni San Andres), Bolivia.</p>
 </li></ul>
-[![TO TOP]({{site.baseurl}}/images/icons/top_arrow.png)](#top)
+[![TO TOP](/images/icons/top_arrow.png)](#top)
 
 ## Research Proposals ##
 * FOR2131 P2 (Phase 2), 2017: Co-author for the DFG research proposal for the continuation of the FOR2131 P2 research project "Implement a satellite observations simulator for data assimilation schemes into high-resolution land-surface coupled models. Status: __Proposal Granted but not yet started__ .

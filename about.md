@@ -19,8 +19,16 @@ I'm an enthusiast for experimental work with scientific instrumentation in the L
   <li> Effects of Cloudiness on UV Radiation.</li>
 </ul>
 </p>
-I do also enjoy the development of scientific software for data-processing/ -analysing within the open source initiative.<br/>
 
+<p>I do help as referee for peer reviewed publications at the (so far) following journals:</p>
+<ul>
+  <li> Journal of Geophysical Research JGR (Atmospheres),</li>
+  <li> IEEE Geo-sciences Remote Sensing Letters,</li>
+  <li> Journal of Atmospheric and Ocean Technology JAOT,</li>
+  <li> Journal of Open Research Software JORS.</li>
+</ul>
+
+I do also enjoy the development of scientific software for data-processing/ -analysing within the open source initiative.<br/>
 PS. <em>I'm still trying to keep my old websites in the following links:
 <a title="2010-2017 MIUB website" href="{{site.PDFmiub}}" target="\_blank">(2010-2016 website)</a>, and
 <a title="2005-2009 was at Yahoo-pages" href="http://www2.meteo.uni-bonn.de/admirari" target="\_blank">(2005-2009 website)</a>
