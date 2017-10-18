@@ -14,9 +14,10 @@ thecodes:
   - name: 'ADMIRARI library'
     namefile: admirari.md
     linkcode: ADMIRARI_RAD
-  - name: 'CBM08 Ceilometer'
-    namefile: cbm08ceilo.md
-    linkcode: CBM08_DataIO
+  - name: 'CBME80 Ceilometer'
+    namefile: cbme80ceilo.md
+    linkcode: Lidar_CBME80_IO
+    codelogo: images/software/LPVEx_CEI_Y11M01D13.png
   - name: 'Integrated Profile technique'
     namefile: OptimRetTech.md
     linkcode: IPT-FOR

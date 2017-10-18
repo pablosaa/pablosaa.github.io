@@ -1,0 +1,2 @@
+
+Data acquisition code written in C/C++ language, specific for the Eliasson ceilometer model CBME80, used by the project ADMIRARI. Acquires data from serial port COM2 and the output is written in plain ASCII data files. Additionally includes a MATLAB MEX code to read the data files within MATLAB workspace.
