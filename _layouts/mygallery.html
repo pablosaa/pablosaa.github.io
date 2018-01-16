@@ -4,22 +4,23 @@ title: Portfolio
 ---
 
 <i>{{content}}</i>
-<table border="3" width="97%">
-  {% tablerow abbild in page.einheit cols:2 %}
+<table border="0" width="99%">
+  {% tablerow abbild in page.einheit cols:1 %}
   <center>
     <a id="atgallery" title="{{abbild.topic}}" href="{{abbild.linkto}}" target="_blank">
-      <h4>~ {{abbild.topic}} ~</h4>
-    {% if abbild.tag=='figure' %}
-      <figure>
-        <img src="{{abbild.bild}}" alt="{{abbild.topic}}" width="350px" height="auto">
-      </figure>
-      <p id="caption">{{abbild.caption}}</p>
-    {% elsif abbild.tag=='video' %}
-      <iframe width="350px" height="auto" src="{{abbild.bild}}" frameborder="0" allowfullscreen></iframe>
-      <p id="caption">{{abbild.caption}}</p>
-
-    {% endif %}
-  </a>
+      <h4 class="colorstrip">§ {{abbild.topic}}:</h4>
+        {% if abbild.tag=='figure' %}
+        <figure style="float:left;width:30%;">
+          <img src="{{abbild.bild}}" alt="{{abbild.topic}}" width="90%" height="auto">
+        </figure>
+        {% elsif abbild.tag=='video' %}
+        <iframe style="float:left;width:30%;" width="95%" height="auto" src="{{abbild.bild}}" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+    </a>
   </center>
+  <p id="caption">{{abbild.caption}}<br/>
+          {{abbild.date}}<hr/>
+  </p>
+
   {% endtablerow %}
 </table>

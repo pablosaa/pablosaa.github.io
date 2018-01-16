@@ -101,19 +101,21 @@ ul.posts li {
 
 #atgallery {
   text-decoration: none;
-  color: #55A;
-  font-size: 16pt;
-  font-family: 'courier','sans-serif','helvetica';
+  color: #9cc;/*#55A;*/
+  font-size: 18pt;
+  font-family: 'Monaco','Palatino','sans-serif','helvetica';
   font-style: normal;
+  text-align: left;
 }
 
 #atgallery:hover, #caption:hover {
     text-decoration: none;
     color: #BB3300;
+    /*background-color: #aaa;*/
 }
 
 #caption {
-  font-family: 'utopia','sans-serif';
+  font-family: 'Optima','utopia','sans-serif';
   font-style: italic;
   font-size: 12pt;
   width: 90%;
@@ -130,7 +132,20 @@ ul.posts li {
    padding-top:20px;
 
 }
-
+.colorstrip {
+  width: 100%;
+  height:auto;
+  border-style:none;
+  border-color: inherit;
+  background: repeating-linear-gradient(
+    45deg,
+    #5d9634,
+    #5d9634 10px,
+    #538c2b 10px,
+    #538c2b 20px
+    );
+    background-color: white;
+}
 /* Icons under the Contact row at footer */
 .icons {
   width:30px;
@@ -181,11 +196,11 @@ ul.posts li {
   position: relative;
   text-align: center;
   text-decoration: none;
-  border-radius: 15%;
+  border-radius: 20%;
   transition-duration: 0.2s;
 }
 .fa:hover {
-  opacity: 0.8;
+  opacity: 0.9;
   transform: scale(1.1);
 }
 .fa span {
