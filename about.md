@@ -8,11 +8,11 @@ title: About me
 <a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a>
 <p>
 I'm an research scientist at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>
-in Germany, which is also my <em>Alma mater</em> where I have obtained the Doctoral degree on Meteorology with Atmospheric Remote Sensing as major. Formerly I got the degree in Physics from the University <em>Mayor de San Andres</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Carrera de Fisica</a>  in Bolivia.<br/>
+in Germany, which is also my <em>Alma mater</em> where I have obtained the Doctoral degree on Meteorology with Atmospheric Remote Sensing as major. Formerly I got the degree in Physics from the University <em>Mayor de San Andrés</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Carrera de Fisica</a>  in Bolivia.<br/>
 </p>
 <p>
 Currently I'm mostly working at the development of SMOS/SMAP synthetic measurements for data assimilation studies, and ground validation of retrieved precipitation parameters by the GPM satellite. But my research ranges from ground-based microwave remote sensing of the atmosphere, inversion techniques, synergy of active and passive sensors to scattering calculations.<br/>
-I'm an enthusiast for experimental work with scientific instrumentation in the Lab or field experiments, mainly experienced with radiometers, radars and Lidars.<br/>
+I'm an enthusiast for experimental work with scientific instrumentation in the Lab or field experiments, mainly working with radiometers, radars and Lidars.<br/>
 </p>
 <p> Among my research interest are:
 <ul>
@@ -40,7 +40,7 @@ PS. <em>I'm still trying to keep my old websites in the following links:
 <br/>
 </p>
 <h4> About this web site </h4>
-I'm not a web developer by training but I do really have fun writing web sites. My last (current) site was developed using Jekyll, Markdown, CSS under GitHub-pages with Atom editor. Getting a lot of knowledge and inspiration from several sites and developers, mainly:<br/>
+I'm not a web developer by training but I do really enjoy designing web sites. My last (current) site was developed using Jekyll, Markdown, CSS under GitHub-pages with Atom editor. Getting a lot of knowledge and inspiration from several sites and developers, mainly:<br/>
 <ul>
   <li><a title="W3school" href="http://www.w3schools.com">W3 School</a>,</li>
   <li><a title="Liquid doc" href="https://shopify.github.io/liquid">Liquid Language</a>,</li>

@@ -1,7 +1,8 @@
 body {
     margin: 6px auto;
     width: 80%;
-    background-color: white; /*#ddd;*/
+    background-color: white;
+    background-image: url('../images/fronts/marmol.png');
     font-family: sans-serif;
 }
 nav.mainpg ul {
