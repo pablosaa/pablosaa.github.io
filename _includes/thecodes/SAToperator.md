@@ -1,0 +1,4 @@
+A satellite simulator alike SMOS or SMAP. Using CLM as land surface model for input and CMEM as L-band radiative transfer model.
+The code takes into account satellite sensor information to assess sensing features as incidence angles, footprint, field-of-view, etc.
+The radiative transfer model CMEM has been extended to take into account multiple incidence angles, using topography information to estimate
+terrain slope and aspect which are used to calculate an effective incidence angle for the model.

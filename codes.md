@@ -4,6 +4,10 @@ title: Scientific codes
 vorworte: This is a selected list of my codes hosted in public repositories.
 caratula: images/fronts/laptop.png
 thecodes:
+  - name: 'Satellite Operator'
+    namefile: SAToperator.md
+    linkcode: SATOPE_CLM4CMEM
+    codelogo: images/projects/TB_SMAPcube.png
   - name: 'Processor SMOS L1C'
     namefile: ProceSMOSL1C.md
     linkcode: Process_SMOS_L1C
