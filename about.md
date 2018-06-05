@@ -7,8 +7,11 @@ title: About me
 
 <a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a>
 <p>
-I'm an research scientist at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>
-in Germany, which is also my <em>Alma mater</em> where I have obtained the Doctoral degree on Meteorology with Atmospheric Remote Sensing as major. Formerly I got the degree in Physics from the University <em>Mayor de San Andrés</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Carrera de Fisica</a>  in Bolivia.<br/>
+I'm a research scientist at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I am working with improving inversion techniques for the Atmospheric Maritime Boundary Layer from radiometers and Lidars measurements.
+</p>
+<p>
+Until May 2018 I was working at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>
+in Germany, which is also my <em>Alma mater</em> where I have obtained the Doctoral degree on Precipitating Atmospheric Remote Sensing as research subject. Formerly I got the degree in Physics from the University <em>Mayor de San Andrés</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Carrera de Fisica</a>  in La Paz, Bolivia.<br/>
 </p>
 <p>
 Currently I'm mostly working at the development of SMOS/SMAP synthetic measurements for data assimilation studies, and ground validation of retrieved precipitation parameters by the GPM satellite. But my research ranges from ground-based microwave remote sensing of the atmosphere, inversion techniques, synergy of active and passive sensors to scattering calculations.<br/>
