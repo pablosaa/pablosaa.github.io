@@ -15,6 +15,9 @@ caratula: images/fronts/pencil.png
 ***
 
 ## Research Projects ##
+![OBLO]({{site.baseurl}}/images/projects/OBLO_legacy.jpg){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
+**OBLO**, **O**ff-shore **B**oundary **L**ayer **O**bservatory: Studying and measuring Turbulence at the atmosphere marine boundary layer using modeling, remote sensing and in-situ techniques. Part of the "Bergen Off-shore Wind Center".
+
 ![for2131 show]({{site.baseurl}}/images/projects/TB_SMAPcube.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
 **FOR2131**, *Sub-Project P2*: Scale-Problem in Assimilation of Passive Microwave Observations into Coupled Models.
 My main work is to generate virtual satellite observations alike the measurements performed by the ESA SMOS and the NASA SMAP satellites. Both satellites carry on board passive Microwave radiometers, and their measurements are mainly used to retrieve land surface properties like soil moisture. [[for2131 website](http://www.for2131.de)]
@@ -30,6 +33,8 @@ My main work is to generate virtual satellite observations alike the measurement
 
 ## Field Experiments ##
 <ul><li>
+<p class="discreet"><strong>OBLO, September 2018, Haakon Kronsprins Nancen Lecacy cruse</strong><strong>,<br /></strong>(Institutions involved: GIF / UNIS / Uni Bergen), Svalbard-Norway.</p>
+</li><li>
 <p class="discreet"><strong>HOPE, April - present 2013, Jülich Research Center JOYCE</strong><strong>,<br /></strong>(Institutions involved: Jülich Research Center / DWD / Uni Bonn), Jülich-Germany.</p>
 </li><li>
 <p class="discreet"><strong>CHILL, March - August 2012, CHILL Radar Facility</strong><strong>,<br /></strong>(Institutions involved: Colorado State University / NASA GPM / Uni Bonn), Colorado-USA.</p>
