@@ -4,6 +4,10 @@ title: Scientific codes
 vorworte: This is a selected list of my codes hosted in public repositories.
 caratula: images/fronts/laptop.png
 thecodes:
+  - name: 'Wyoming Radiosonde'
+    namefile: Wyosondes.md
+    linkcode: WyoSondes
+    codelogo: images/software/wyosondes.png
   - name: 'Satellite Operator'
     namefile: SAToperator.md
     linkcode: SATOPE_CLM4CMEM
