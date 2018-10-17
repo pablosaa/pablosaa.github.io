@@ -4,7 +4,7 @@ title: 'Pablo Saavedra Portfolio'
 einheit:
   - topic: 'GeoLog selected one of my Fotos'
     linkto: https://blogs.egu.eu/geolog/2012/09/24/imaggeo-on-mondays-cloud-sandwich/
-    bild: https://static3.imaggeo.egu.eu/media/thumbs/previews/2011/03/07/707.jpg.1024x768_q90.jpg
+    bild: https://blogs.egu.eu/geolog/files/2012/09/CHUVA_lenticularis-1024x768.jpg
     caption: |
       The editor of EGU GeoLog blog has once choosen one of my contributions to imaggeo for the week post, so glad to contribute a bit.
     tag:  blogs
