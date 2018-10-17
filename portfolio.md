@@ -2,9 +2,16 @@
 layout: mygallery
 title: 'Pablo Saavedra Portfolio'
 einheit:
+  - topic: 'GeoLog selected one of my Fotos'
+    linkto: https://blogs.egu.eu/geolog/2012/09/24/imaggeo-on-mondays-cloud-sandwich/
+    bild: https://static3.imaggeo.egu.eu/media/thumbs/previews/2011/03/07/707.jpg.1024x768_q90.jpg
+    caption: |
+      The editor of EGU GeoLog blog has once choosen one of my contributions to imaggeo for the week post, so glad to contribute a bit.
+    tag:  blogs
+    date: 2012-Sep-24
   - topic: 'EGU Image Geo Gallery'
     linkto: https://imaggeo.egu.eu/user/330
-    bild: https://static3.imaggeo.egu.eu/media/thumbs/previews/2011/03/07/707.jpg.1024x768_q90.jpg
+    bild: https://static3.imaggeo.egu.eu/media/thumbs/previews/2014/07/23/2500.jpg.1024x768_q90.jpg
     caption: |
       This is the link to my European Geosciences Union (EGU) Image gallery. I tried to keep it updated with pictures usually taken during my work on the field.
     tag: figure
