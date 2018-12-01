@@ -2,7 +2,7 @@ body {
     margin: 6px auto;
     width: 80%;
     background-color: white;
-    background-image: url('../images/fronts/matika15.png');
+    /* background-image: url('../images/fronts/matika15.png'); */
     font-family: sans-serif;
 }
 nav.mainpg ul {

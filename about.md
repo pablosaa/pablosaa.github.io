@@ -7,10 +7,10 @@ title: About me
 
 <a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a>
 <p>
-I'm a research scientist at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I am working at the Off-shore Boundary Layer Observatory with improving inversion techniques for the Atmospheric Maritime Boundary Layer measured by radiometers and Lidars measurements.
+I'm a research scientist at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I am working at the Off-shore Boundary Layer Observatory with improving inversion techniques for the Atmospheric Maritime Boundary Layer measurements with radiometers and Lidars measurements.
 </p>
 <p>
-Until May 2018 I was working at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>
+Until March 2018 I've been working at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>
 in Germany, which is also my <em>Alma mater</em> where I have obtained the Doctoral degree on Precipitating Atmospheric Remote Sensing as research subject. Formerly I got the degree in Physics from the University <em>Mayor de San Andrés</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Carrera de Fisica</a>  in La Paz, Bolivia.<br/>
 </p>
 <p>
@@ -43,16 +43,9 @@ PS. <em>I'm still trying to keep my old websites in the following links:
 <br/>
 </p>
 <h4> About this web site </h4>
-I'm not a web developer by training but I do really enjoy designing web sites. My last (current) site was developed using Jekyll, Markdown, CSS under GitHub-pages with Atom editor. Getting a lot of knowledge and inspiration from several sites and developers, mainly:<br/>
-<ul>
-  <li><a title="W3school" href="http://www.w3schools.com">W3 School</a>,</li>
-  <li><a title="Liquid doc" href="https://shopify.github.io/liquid">Liquid Language</a>,</li>
-  <li><a title="CodePen" href="https://codepen.io">Code PEN</a>,</li>
-  <li><a title="Cool Icons" href="https://simpleicons.org/">Cool SVG Icons</a>,</li>
-  <li><a title="Cool Emojis" href="https://emojipedia.org/flag-for-norway//">Emojipedia Flags</a>,</li>
-  <li><a title="Dhanish guy" href="http://www.dhanishgajjar.com">Dhanish</a>,</li>
-  <li><a title="Stack Overfow" href="http://www.stakoverflow.com">Stack Overflow</a>,</li>
-  <li>...and many others.</li>
-</ul>
+I'm not a web developer by training but I do really enjoy designing web sites. My last (current) site was developed using Jekyll, Markdown, CSS under GitHub-pages with Atom editor.
 
- 🇩🇪 🇧🇴
+  🇧🇴 🇩🇪 🇳🇴
+
+ <!-- Getting a lot of knowledge and inspiration from several sites and developers, mainly:<br/> -->
+ <!-- <ul>    <li><a title="W3school" href="http://www.w3schools.com">W3 School</a>,</li>    <li><a title="Liquid doc" href="https://shopify.github.io/liquid">Liquid Language</a>,</li>    <li><a title="CodePen" href="https://codepen.io">Code PEN</a>,</li>   <li><a title="Cool Icons" href="https://simpleicons.org/">Cool SVG Icons</a>,</li>   <li><a title="Cool Emojis" href="https://emojipedia.org/flag-for-norway//">Emojipedia Flags</a>,</li>   <li><a title="Dhanish guy" href="http://www.dhanishgajjar.com">Dhanish</a>,</li>   <li><a title="Stack Overfow" href="http://www.stakoverflow.com">Stack Overflow</a>,</li>   <li>...and many others.</li>  </ul> -->
