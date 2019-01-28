@@ -33,6 +33,8 @@ My main work is to generate virtual satellite observations alike the measurement
 
 ## Field Experiments ##
 <ul><li>
+<p class="discreet"><strong>COTUR, January 2019 - March 2020, Coherence and Turbulence Experiment</strong><strong>,<br /></strong>(Institutions involved: GIF / NORCE / Uni Stavanger / Uni Bergen), Obrestad Fyr-Norway.</p>
+</li><li>
 <p class="discreet"><strong>OBLO, September 2018, Haakon Kronsprins Nancen Lecacy cruse</strong><strong>,<br /></strong>(Institutions involved: GIF / UNIS / Uni Bergen), Svalbard-Norway.</p>
 </li><li>
 <p class="discreet"><strong>HOPE, April - present 2013, Jülich Research Center JOYCE</strong><strong>,<br /></strong>(Institutions involved: Jülich Research Center / DWD / Uni Bonn), Jülich-Germany.</p>

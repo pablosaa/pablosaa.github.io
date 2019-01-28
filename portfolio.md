@@ -2,12 +2,21 @@
 layout: mygallery
 title: 'Pablo Saavedra Portfolio'
 einheit:
+  - topic: 'COTUR Experiment, press coverage'
+    linkto: 'https://www.norceresearch.no/nyheter/vind-viser-vei?fbclid=IwAR3muD_NP4gzSshsu5Kta4Q2KU2N26AiZ0sFOxF4v2v2jgsq7T1YCcrFxOM'
+    bild: 'https://norce.s3.amazonaws.com/Obrestad002.JPG'
+    caption: |
+      During instrument installation the NORCE press department came by to cover the work under development for the COTUR field experiment. Same time, the Norwegian national television NRK.TV was filming a reportage too. <br>
+      
+      In this picture, from left to right: Jarle Berge (Uni Stavanger), Martin Flügge (NORCE), Benny Svardal (NORCE), and me :)
+    tag: figure
+    date: 2019-Jan-10
   - topic: 'GeoLog selected one of my Fotos'
     linkto: https://blogs.egu.eu/geolog/2012/09/24/imaggeo-on-mondays-cloud-sandwich
-    bild: https://static3.imaggeo.egu.eu/media/thumbs/previews/2014/07/23/2500.jpg.1024x768_q90.jpg
+    bild: 'https://blogs.egu.eu/geolog/files/2012/09/CHUVA_lenticularis-1024x768.jpg'
     caption: |
       The editor of EGU GeoLog blog has once chosen one of my contributions to "imaggeo" for the week post, so glad to contribute a bit.
-    tag:  blogs
+    tag: figure
     date: 2012-Sep-24
   - topic: 'EGU Image Geo Gallery'
     linkto: https://imaggeo.egu.eu/user/330

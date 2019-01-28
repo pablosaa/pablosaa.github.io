@@ -4,6 +4,10 @@ title: Scientific codes
 vorworte: This is a selected list of my codes hosted in public repositories.
 caratula: images/fronts/laptop.png
 thecodes:
+  - name: 'WindCubeLib'
+    namefile: windcubelib.md
+    linkcode: WindCube
+    codelogo: images/fronts/laptop.png
   - name: 'Wyoming Radiosonde'
     namefile: Wyosondes.md
     linkcode: WyoSondes
