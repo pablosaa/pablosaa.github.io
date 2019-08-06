@@ -4,6 +4,10 @@ title: Scientific codes
 vorworte: This is a selected list of my codes hosted in public repositories.
 caratula: images/fronts/laptop.png
 thecodes:
+  - name: 'HATPRO DaBinIO'
+    namefile: hatpro_dabinio.md
+    linkcode: HATPRO-DABINIO
+    codelogo: images/fronts/laptop.png
   - name: 'WindCubeLib'
     namefile: windcubelib.md
     linkcode: WindCube

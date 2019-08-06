@@ -6,17 +6,17 @@ vorworte: This page summarizes my research activity in actual and past projects 
 caratula: images/fronts/pencil.png
 ---
 
-[ Projects ](#research-projects){:style="background-color: white;"} |
-[ Field Campaigns ](#field-experiments){:style="background-color: white;"} |
-[ Publications ](publications){:style="background-color: white;"} |
-[ Conferences ](conferences){:style="background-color: white;"} |
-[ Submitted Proposals ](#research-proposals){:style="background-color: white;"}
+[ Projects ](#research-projects){:style="background-color: none;"} |
+[ Field Campaigns ](#field-experiments){:style="background-color: none;"} |
+[ Publications ](publications){:style="background-color: none;"} |
+[ Conferences ](conferences){:style="background-color: none;"} |
+[ Submitted Proposals ](#research-proposals){:style="background-color: none;"}
 
 ***
 
 ## Research Projects ##
 ![OBLO]({{site.baseurl}}/images/projects/OBLO_legacy.jpg){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
-**OBLO**, **O**ff-shore **B**oundary **L**ayer **O**bservatory: Studying and measuring Turbulence at the atmosphere marine boundary layer using modeling, remote sensing and in-situ techniques. Part of the "Bergen Off-shore Wind Center".
+**OBLO**, *Off-shore Boundary Layer Observatory*: Studying and measuring Turbulence at the atmosphere marine boundary layer using modeling, remote sensing and in-situ techniques. Part of the "Bergen Off-shore Wind Center". [[OBLO website](https://oblo.w.uib.no)]
 
 ![for2131 show]({{site.baseurl}}/images/projects/TB_SMAPcube.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
 **FOR2131**, *Sub-Project P2*: Scale-Problem in Assimilation of Passive Microwave Observations into Coupled Models.
@@ -35,7 +35,7 @@ My main work is to generate virtual satellite observations alike the measurement
 <ul><li>
 <p class="discreet"><strong>COTUR, January 2019 - March 2020, Coherence and Turbulence Experiment</strong><strong>,<br /></strong>(Institutions involved: GIF / NORCE / Uni Stavanger / Uni Bergen), Obrestad Fyr-Norway.</p>
 </li><li>
-<p class="discreet"><strong>OBLO, September 2018, Haakon Kronsprins Nancen Lecacy cruse</strong><strong>,<br /></strong>(Institutions involved: GIF / UNIS / Uni Bergen), Svalbard-Norway.</p>
+<p class="discreet"><strong>Legacy Cruise, September 2018, Haakon Kronsprins Nancen Lecacy cruise</strong><strong>,<br /></strong>(Institutions involved: GIF / UNIS / Uni Bergen), Svalbard-Norway.</p>
 </li><li>
 <p class="discreet"><strong>HOPE, April - present 2013, Jülich Research Center JOYCE</strong><strong>,<br /></strong>(Institutions involved: Jülich Research Center / DWD / Uni Bonn), Jülich-Germany.</p>
 </li><li>
