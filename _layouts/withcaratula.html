@@ -5,7 +5,7 @@ layout: default
 <p id="meinvorwort">{{ page.vorworte }}</p>
 <p style="text-align:right;">
   {% if page.caratula %}
-    <img src="{{site.baseurl}}/{{ page.caratula }}" alt="{{ page.title }}" width="30%" height="auto">
+    <img src="{{ page.caratula }}" alt="{{ page.title }}" width="30%" height="auto">
     {% else %}
     <h3>{{ page.title }}</h3>
   {% endif %}
@@ -13,4 +13,4 @@ layout: default
 <hr />
 {{ content }}
 <hr />
-<a  href="#top"><img alt="Back to TOP" src="{{site.baseurl}}/images/icons/top_arrow.png"></a>
+<a  href="#top"><img alt="Back to TOP" src="images/icons/top_arrow.png"></a>

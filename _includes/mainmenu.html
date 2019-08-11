@@ -7,7 +7,7 @@
 	{% else %}
 	<ul>
 			<li>
-					<a href="{{site.baseurl}}/" class="{% if page.url=='/' %}current{% endif %}">Home</a>
+					<a href="{{'/' | relative_url}}" class="{% if page.url=='/' %}current{% endif %}">Home</a>
 			</li>
 			<li><a href="projects" class="{% if page.url=='/projects.html' %}current{% endif %}">Research</a></li>
 			<li><a href="codes" class="{% if page.url=='/codes.html' %}current{% endif %}">Code</a></li>
