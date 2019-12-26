@@ -15,21 +15,21 @@ caratula: images/fronts/pencil.png
 ***
 
 ## Research Projects ##
-![OBLO](images/projects/OBLO_legacy.jpg){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
+![OBLO]({{'images/projects/OBLO_legacy.jpg' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
 **OBLO**, *Off-shore Boundary Layer Observatory*: Studying and measuring Turbulence at the atmosphere marine boundary layer using modeling, remote sensing and in-situ techniques. Part of the "Bergen Off-shore Wind Center". [[OBLO website](https://oblo.w.uib.no)]
 
-![for2131 show](images/projects/TB_SMAPcube.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
+![for2131 show]({{'images/projects/TB_SMAPcube.png'|relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
 **FOR2131**, *Sub-Project P2*: Scale-Problem in Assimilation of Passive Microwave Observations into Coupled Models.
 My main work is to generate virtual satellite observations alike the measurements performed by the ESA SMOS and the NASA SMAP satellites. Both satellites carry on board passive Microwave radiometers, and their measurements are mainly used to retrieve land surface properties like soil moisture. [[for2131 website](http://www.for2131.de)]
 
-![gpm/gv show](images/projects/GPM_BoxPol_scheme.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
+![gpm/gv show]({{'images/projects/GPM_BoxPol_scheme.png'|relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
 **GPM/GV**, *Global Precipitation Measurement*: _Ground Validation_ for satellite precipitation measurements and retrievals by the NASA GPM satellite. Validation is mainly pursued by the University of Bonn X-band polarimetric radar (BoXPol). Currently I am co-supervising Velibort Pejcic in his Ph.D. work at the Meteorological Institute University of Bonn. [[BonnGV](http://www2.meteo.uni-bonn.de/admirari/gpmgv)]
 
 ### Past Projects ###
-![admirari show](images/projects/admi_rad.png){:style="float: right; margin-right:7px; margin-top: 7px; width: 25%"}
+![admirari show]({{'images/projects/admi_rad.png'|relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 25%"}
 **ADMIRARI**, *ADvanced MIcrowave RAdiometer for Rain Identification*: The radiometer ADMIRARI is a passive microwave dual-polarization triple-frequency radiometer and was developed for ground-based observation of the precipitation atmosphere. My responsibilities in this project ranged from instrument curator, technical development, measurements and mainly the development of a retrieval technique to estimate simultaneously the cloud and rain liquid water content in precipitating atmosphere. [[ADMIRARI website](http://www2.meteo.uni-bonn.de/admirari)]
 
-[![TO TOP](images/icons/top_arrow.png)](#top)
+[![TO TOP]({{'images/icons/top_arrow.png'|relative_url}})](#top)
 
 ## Field Experiments ##
 <ul><li>
@@ -55,7 +55,7 @@ My main work is to generate virtual satellite observations alike the measurement
 </li><li>
 <p class="discreet"><strong>(Student Volunteer) Juipy-Taya, Agust-September 2003, Bolivian Southern Altiplano</strong>,<br />(Institutions involved: MIM / Uni Munich / Uni San Andres), Bolivia.</p>
 </li></ul>
-[![TO TOP](images/icons/top_arrow.png)](#top)
+[![TO TOP]({{'images/icons/top_arrow.png'|relative_url}})](#top)
 
 ## Research Proposals ##
 * FOR2131 P2 (Phase 2), 2017: Co-author for the DFG research proposal for the continuation of the FOR2131 P2 research project "Implement a satellite observations simulator for data assimilation schemes into high-resolution land-surface coupled models. Status: __Proposal Granted but not yet started__ .
