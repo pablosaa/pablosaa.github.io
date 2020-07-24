@@ -16,6 +16,10 @@ thecodes:
     namefile: Wyosondes.md
     linkcode: WyoSondes
     codelogo: images/software/wyosondes.png
+  - name: 'Radiative Transfer RT4 Atmosphere'
+    namefile: RT4atmosphere.md
+    linkcode: RT4_ATMOSPHERE
+    codelogo: images/fronts/laptop.png
   - name: 'Satellite Operator'
     namefile: SAToperator.md
     linkcode: SATOPE_CLM4CMEM

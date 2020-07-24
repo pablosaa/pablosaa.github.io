@@ -1,0 +1,64 @@
+I"�<p><a href="#research-projects" style="background-color: none;"> Projects </a> |
+<a href="#field-experiments" style="background-color: none;"> Field Campaigns </a> |
+<a href="publications" style="background-color: none;"> Publications </a> |
+<a href="conferences" style="background-color: none;"> Conferences </a> |
+<a href="#research-proposals" style="background-color: none;"> Submitted Proposals </a></p>
+
+<hr />
+
+<h2 id="research-projects">Research Projects</h2>
+<p><img src="/pablosaa.github.io/images/projects/OBLO_legacy.jpg" alt="OBLO" style="float: right; margin-right:7px; margin-top: 7px; width: 20%" />
+<strong>OBLO</strong>, <em>Off-shore Boundary Layer Observatory</em>: Studying and measuring Turbulence at the atmosphere marine boundary layer using modeling, remote sensing and in-situ techniques. Part of the “Bergen Off-shore Wind Center”. [<a href="https://oblo.w.uib.no">OBLO website</a>]</p>
+
+<p><img src="/pablosaa.github.io/images/projects/TB_SMAPcube.png" alt="for2131 show" style="float: right; margin-right:7px; margin-top: 7px; width: 30%" />
+<strong>FOR2131</strong>, <em>Sub-Project P2</em>: Scale-Problem in Assimilation of Passive Microwave Observations into Coupled Models.
+My main work is to generate virtual satellite observations alike the measurements performed by the ESA SMOS and the NASA SMAP satellites. Both satellites carry on board passive Microwave radiometers, and their measurements are mainly used to retrieve land surface properties like soil moisture. [<a href="http://www.for2131.de">for2131 website</a>]</p>
+
+<p><img src="/pablosaa.github.io/images/projects/GPM_BoxPol_scheme.png" alt="gpm/gv show" style="float: right; margin-right:7px; margin-top: 7px; width: 30%" />
+<strong>GPM/GV</strong>, <em>Global Precipitation Measurement</em>: <em>Ground Validation</em> for satellite precipitation measurements and retrievals by the NASA GPM satellite. Validation is mainly pursued by the University of Bonn X-band polarimetric radar (BoXPol). Currently I am co-supervising Velibort Pejcic in his Ph.D. work at the Meteorological Institute University of Bonn. [<a href="http://www2.meteo.uni-bonn.de/admirari/gpmgv">BonnGV</a>]</p>
+
+<h3 id="past-projects">Past Projects</h3>
+<p><img src="/pablosaa.github.io/images/projects/admi_rad.png" alt="admirari show" style="float: right; margin-right:7px; margin-top: 7px; width: 25%" />
+<strong>ADMIRARI</strong>, <em>ADvanced MIcrowave RAdiometer for Rain Identification</em>: The radiometer ADMIRARI is a passive microwave dual-polarization triple-frequency radiometer and was developed for ground-based observation of the precipitation atmosphere. My responsibilities in this project ranged from instrument curator, technical development, measurements and mainly the development of a retrieval technique to estimate simultaneously the cloud and rain liquid water content in precipitating atmosphere. [<a href="http://www2.meteo.uni-bonn.de/admirari">ADMIRARI website</a>]</p>
+
+<p><a href="#top"><img src="/pablosaa.github.io/images/icons/top_arrow.png" alt="TO TOP" /></a></p>
+
+<h2 id="field-experiments">Field Experiments</h2>
+<ul><li>
+<p class="discreet"><strong>COTUR, January 2019 - March 2020, Coherence and Turbulence Experiment</strong><strong>,<br /></strong>(Institutions involved: GIF / NORCE / Uni Stavanger / Uni Bergen), Obrestad Fyr-Norway.</p>
+</li><li>
+<p class="discreet"><strong>Legacy Cruise, September 2018, Haakon Kronsprins Nancen Lecacy cruise</strong><strong>,<br /></strong>(Institutions involved: GIF / UNIS / Uni Bergen), Svalbard-Norway.</p>
+</li><li>
+<p class="discreet"><strong>HOPE, April - present 2013, Jülich Research Center JOYCE</strong><strong>,<br /></strong>(Institutions involved: Jülich Research Center / DWD / Uni Bonn), Jülich-Germany.</p>
+</li><li>
+<p class="discreet"><strong>CHILL, March - August 2012, CHILL Radar Facility</strong><strong>,<br /></strong>(Institutions involved: Colorado State University / NASA GPM / Uni Bonn), Colorado-USA.</p>
+</li><li>
+<p class="discreet"><strong>GCPEx, January - February 2012, Environmental Canada</strong><strong>,<br /></strong>(Institutions involved: EC / NASA GPM / Uni Bonn), Ontario-Canada.</p>
+</li><li>
+<p class="discreet"><strong>MC3E, May - June 2011, DOE Atmospheric Research Measurement</strong>,<br />(Institutions involved: ARM / NASA GPM / Uni McGill / Uni Bonn), Oklahoma-USA.</p>
+</li><li>
+<p class="discreet"><strong>LPVEx, September 2010-January 2011, Helsinki University/ VAISALA facility,</strong><br /> (Institutions involved: UH / FMI / NASA GPM / Uni Bonn), Helsinki-Finland.</p>
+</li><li>
+<p class="discreet"><strong>CHUVA, March 2010, Centro de Lancamento da Alcantara</strong>,<br />(Institutions involved: CPTEC / ABE / CLA / NASA GPM / Uni Bonn), São Luís do Maranhão -Brazil.</p>
+</li><li>
+<p class="discreet"><strong>EUCAARI, April-December 2008, CESAR Observatory</strong>,<br />(Institutions involved: KMMI / TUDelft / Uni Bonn), Cabauw -The Netherlands.</p>
+</li><li>
+<p class="discreet"><strong>COPS, August-December 2007, DOE Atmospheric Research Measurement Mobile Facility,</strong><br />(Institutions involved: Uni Hohenheim / TUDelft / ARM MF / Uni Bonn), Murg Valley-Germany.</p>
+</li><li>
+<p class="discreet"><strong>(Student Volunteer) Juipy-Taya, Agust-September 2003, Bolivian Southern Altiplano</strong>,<br />(Institutions involved: MIM / Uni Munich / Uni San Andres), Bolivia.</p>
+</li></ul>
+<p><a href="#top"><img src="/pablosaa.github.io/images/icons/top_arrow.png" alt="TO TOP" /></a></p>
+
+<h2 id="research-proposals">Research Proposals</h2>
+<ul>
+  <li>
+    <p>FOR2131 P2 (Phase 2), 2017: Co-author for the DFG research proposal for the continuation of the FOR2131 P2 research project “Implement a satellite observations simulator for data assimilation schemes into high-resolution land-surface coupled models. Status: <strong>Proposal Granted but not yet started</strong> .</p>
+  </li>
+  <li>
+    <p>ADMIRARI II (Phase 2), 2010: Co-author for the DFG research proposal for the ADMIRARI project regarding the participation at several NASA ground validation precipitation field experiments. Status: <strong>Proposal Granted and project finished in 2014</strong>.</p>
+  </li>
+  <li>
+    <p>CARNAVALE, 2011: Co-author for a NEST research proposal to take part at the CHUVA Go-Amazon campaign. Proposal was not being considered for evaluation due to unfulfilled counterpart PI requirements. Status: <strong>Proposal Not Considered for evaluation due to unfitting requirements</strong>.</p>
+  </li>
+</ul>
+:ET

@@ -1,0 +1,2 @@
+I"3<p>A C++ library to read and process binary data for a dual-polarimetry multi-frequency radiometer from manufacturer Radiometer Physics GmbH. The library also includes a code for retrieving atmospheric and precipitating parameters like Integrated Water Vapor, Rain and Cloud Liquid Water Content. The inversion technique uses a Bayesian approach, with retrieval parameters including most likely value, standard deviation and retrieval quality index as feasibility estimator. Alternatively some of the same codes are also available as <em>MATLAB</em> scripts.</p>
+:ET
