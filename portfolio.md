@@ -3,10 +3,10 @@ layout: mygallery
 title: 'Pablo Saavedra Portfolio'
 einheit:
   - topic: 'In Twitter'
-    linkto: 'https://www.twitter.com/gasaapa'
-    bild: '<a href="https://twitter.com/gasaapa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @gasaapa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+    linkto: 'https//twitter.com/gasaapa'
+    embed: '<a href="https://twitter.com/gasaapa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @gasaapa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
     caption: All twitts are my personal opinion ;)
-    tag: video
+    tag: embeb
     date: 2020-Sep-15
   - topic: 'COTUR Experiment, press coverage'
     linkto: 'https://www.norceresearch.no/nyheter/vind-viser-vei?fbclid=IwAR3muD_NP4gzSshsu5Kta4Q2KU2N26AiZ0sFOxF4v2v2jgsq7T1YCcrFxOM'
