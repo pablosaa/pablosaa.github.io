@@ -6,7 +6,7 @@ einheit:
     linkto: 'https//twitter.com/gasaapa'
     embed: '<a href="https://twitter.com/gasaapa" class="twitter-timeline">Follow @gasaapa</a>'
     caption: All twitts are my personal opinion ;)
-    tag: embeb
+    tag: embed
     date: 2020-Sep-15
   - topic: 'COTUR Experiment, press coverage'
     linkto: 'https://www.norceresearch.no/nyheter/vind-viser-vei?fbclid=IwAR3muD_NP4gzSshsu5Kta4Q2KU2N26AiZ0sFOxF4v2v2jgsq7T1YCcrFxOM'
