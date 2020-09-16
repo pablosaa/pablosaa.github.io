@@ -16,7 +16,7 @@ title: Portfolio
         {% elsif abbild.tag=='video' %}
         <iframe style="float:left;width:30%;" width="95%" height="auto" src="{{abbild.bild}}" frameborder="0" allowfullscreen></iframe>
         {% elsif abbild.tag=='embeb' %}
-        <iframe style="float:left;width:50%;" width="95%" height="auto" src="{{abbild.linkto}}" frameborder="0" allowfullscreen></iframe>
+        <iframe style="float:left;width:50%;" width="95%" height="auto" src="{{abbild.linkto}}" frameborder="0" allowfullscreen>{{abbild.embed}}</iframe>
         {% endif %}
     </a>
   </center>
