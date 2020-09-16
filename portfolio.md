@@ -4,7 +4,7 @@ title: 'Pablo Saavedra Portfolio'
 einheit:
   - topic: 'In Twitter'
     linkto: 'https//twitter.com/gasaapa'
-    embed: '<a href="https://twitter.com/gasaapa" class="twitter-timeline">Follow @gasaapa</a>'
+    embed: '{% twitter https://twitter.com/gasaapa maxwidth=500 limit=3 %}'
     caption: All twitts are my personal opinion ;)
     tag: embed
     date: 2020-Sep-15

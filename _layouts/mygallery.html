@@ -16,7 +16,8 @@ title: Portfolio
         {% elsif abbild.tag=='video' %}
         <iframe style="float:left;width:30%;" width="95%" height="auto" src="{{abbild.bild}}" frameborder="0" allowfullscreen></iframe>
         {% elsif abbild.tag=='embed' %}
-        <iframe style="float:left;width:50%;" width="95%" height="auto" src="{{abbild.linkto}}" frameborder="0" allowfullscreen>{{abbild.embed}}</iframe>
+	<div class='jekyll-twitter-plugin' align="left" style="float: left; width: 400px; height: 280px; overflow-y: scroll;">{% twitter https://twitter.com/gasaapa maxwidth=390 limit=5 %}</div>
+
         {% endif %}
     </a>
   </center>
