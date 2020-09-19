@@ -7,7 +7,9 @@ title: About me
 
 <a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a>
 <p>
-I'm a research scientist at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I am working for the Off-shore Boundary Layer Observatory <a href="https://oblo.w.uib.no/" title="Off-shore Boundary Layer Observatory">(OBLO)</a> to improve inversion techniques applied to remote sensing measurements of the Atmospheric Marine Boundary Layer.
+Currently I have a PostDoc position at the <a href="https://meteo.physgeo.uni-leipzig.de" title="Leipzig Institute for Meteorology (LIM)">Leipzig Institute for Meteorology</a>, University of Leipzig, where I am researching the influence of Sea-ice leads on Arctic macro- and micro-physics of clouds.
+
+From 2018 to 2020 I've worked as a Researcher at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I was part of the Off-shore Boundary Layer Observatory <a href="https://oblo.w.uib.no/" title="Off-shore Boundary Layer Observatory">(OBLO)</a> to improve inversion techniques applied to remote sensing measurements of the Atmospheric Marine Boundary Layer.
 </p>
 <p>
 Until March 2018 I've been working at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>
@@ -19,7 +21,7 @@ I'm an enthusiast for experimental work with scientific instrumentation in the L
 </p>
 <p> My research interest covers:
 <ul>
-  <li> Precipitating Clouds and Microphysics,</li>
+  <li> Arctic Boundary Layer Clouds. Precipitation and Cloud Microphysics,</li>
   <li> Microwave Passive Radiometry and synergy of Passive-Active sensors,</li>
   <li> Inversion Methods for Estimation of Atmospheric Parameters,</li>
   <li> Processing and Validation for GPM, SMOS, SMAP Satellites Retrievals,</li>
@@ -43,7 +45,7 @@ I'm an enthusiast for experimental work with scientific instrumentation in the L
   -->
 </ul>
 <p>
-I enjoy the development of scientific software for inversion algorithms, data-processing/ -analyzing and instrumentation interfacing. Always within the open source initiative.<br/>
+I enjoy the development of open source scientific software for inversion algorithms, data-processing/ -analyzing and instrument interfacing.<br/>
 PS. <em>I'm still trying to keep my old websites in the following links:
 <a title="2010-2017 MIUB website" href="{{site.PDFmiub}}" target="\_blank">(2010-2016 website)</a>, and
 <a title="2005-2009 was at Yahoo-pages" href="http://www2.meteo.uni-bonn.de/admirari" target="\_blank">(2005-2009 website)</a>

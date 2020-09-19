@@ -4,7 +4,7 @@ title: 'Pablo Saavedra Portfolio'
 einheit:
   - topic: 'In Twitter'
     linkto: 'https//twitter.com/gasaapa'
-    embed: '{% twitter https://twitter.com/gasaapa maxwidth=500 limit=3 %}'
+    embed: ''   #'{% twitter https://twitter.com/gasaapa maxwidth=500 limit=3 %}'
     caption: All twitts are my personal opinion ;)
     tag: embed
     date: 2020-Sep-15
@@ -13,7 +13,7 @@ einheit:
     bild: 'https://norce.s3.amazonaws.com/Obrestad002.JPG'
     caption: |
       During instrument installation the NORCE press department came by to cover the work under development for the COTUR field experiment. Same time, the Norwegian national television NRK.TV was filming a reportage too. <br>
-      
+
       In this picture, from left to right: Jarle Berge (Uni Stavanger), Martin Flügge (NORCE), Benny Svardal (NORCE), and me :)
     tag: figure
     date: 2019-Jan-10

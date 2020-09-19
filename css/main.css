@@ -158,6 +158,10 @@ ul.posts li {
   fill: #666666; /*fill: #080707;*/
   title: "GitHub";
 }
+#icon_orcid:hover {
+  fill: #A6CE39;
+  title: "ORCID";
+}
 #icon_insta:hover {
   fill: #E4405F;
   title: "Instagram";
