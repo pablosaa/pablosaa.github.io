@@ -3,7 +3,7 @@ layout: default
 title: Pablo Saavedra's personal website
 ---
 <div style="width:22%;height:auto;display:inline-block; white-space:nowrap;">
-<img src="{{'/images/fronts/pab_bild_nopin.png' | relative_url}}" alt="Portrait" style="width:95%;height:auto;margin-right:20px;margin-top:5px;margin-bottom:20px;">
+<img src="{{'images/fronts/pab_bild_nopin.png'}}" alt="Portrait" style="width:95%;height:auto;margin-right:20px;margin-top:5px;margin-bottom:20px;">
 </div>
 <div style="width:70%;height:auto;display:inline-block; white-space:none;text-align:left;vertical-align:top;">
 {% include welcome_en.md %}
@@ -11,10 +11,10 @@ title: Pablo Saavedra's personal website
 <center>
 <nav class="mainmenu">
 	<ul style="align:center;">
-		<li><a href="{{'projects' | relative_url}}"><button  class="fa fa-science"><span>Science</span></button></a></li>
-		<li><a href="{{'codes' | relative_url}}"><button  class="fa fa-coding"><span>Coding</span></button></a></li>
-		<li><a href="{{'portfolio' | relative_url}}"><button class="fa fa-portfolio"><span>Portfolio</span></button></a></li>
-		<li><a href="{{'about' | relative_url}}"><button  class="fa fa-about"><span>About</span></button></a></li>
+		<li><a href="{{'projects.html' | absolute_url}}"><button  class="fa fa-science"><span>Science</span></button></a></li>
+		<li><a href="{{'codes.html' | relative_url}}"><button  class="fa fa-coding"><span>Coding</span></button></a></li>
+		<li><a href="{{'portfolio.html' | absolute_url}}"><button class="fa fa-portfolio"><span>Portfolio</span></button></a></li>
+		<li><a href="{{'about.html' | relative_url}}"><button  class="fa fa-about"><span>About</span></button></a></li>
 	</ul>
 </nav>
 </center>

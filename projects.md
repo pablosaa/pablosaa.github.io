@@ -61,7 +61,7 @@ My main work is to generate virtual satellite observations alike the measurement
 [![TO TOP]({{'images/icons/top_arrow.png'|relative_url}})](#top)
 
 ## Research Proposals ##
-* FOR2131 P2 (Phase 2), 2017: Co-author for the DFG research proposal for the continuation of the FOR2131 P2 research project "Implement a satellite observations simulator for data assimilation schemes into high-resolution land-surface coupled models. Status: __Proposal Granted but not yet started__ .
+* FOR2131 P2 (Phase 2), 2017: Co-author for the DFG research proposal for the continuation of the FOR2131 P2 research project "Implement a satellite observations simulator for data assimilation schemes into high-resolution land-surface coupled models. Status: __Proposal Granted and on going__ .
 
 * ADMIRARI II (Phase 2), 2010: Co-author for the DFG research proposal for the ADMIRARI project regarding the participation at several NASA ground validation precipitation field experiments. Status: __Proposal Granted and project finished in 2014__.
 

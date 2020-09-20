@@ -53,7 +53,7 @@ PS. <em>I'm still trying to keep my old websites in the following links:
 <br/>
 </p>
 <h4> About this web site </h4>
-I'm not a web developer by training but I do really enjoy designing web sites. This site is developed using Jekyll, Markdown, CSS under GitHub-pages with Atom editor.
+This site is developed using Jekyll, Markdown, CSS under GitHub-pages with Atom editor.
 
   🇧🇴 🇩🇪 🇳🇴
 

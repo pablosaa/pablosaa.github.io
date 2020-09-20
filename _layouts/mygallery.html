@@ -16,14 +16,14 @@ title: Portfolio
         {% elsif abbild.tag=='video' %}
         <iframe style="float:left;width:30%;" width="95%" height="auto" src="{{abbild.bild}}" frameborder="0" allowfullscreen></iframe>
         {% elsif abbild.tag=='embed' %}
-					<div align="left" style="float: left; width: 400px; height: 280px; overflow-y: scroll;">
-						<!--div  class="twitter-timeline" class='jekyll-twitter-plugin' -->
-							<a data-tweet-limit="5" href="https://twitter.com/gasaapa?ref_src=twsrc%5Etfw">
-								Tweets by gasaapa
-							</a>
-		  				<!-- script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script -->
+	<div align="left" style="float: left; width: 400px; height: 280px; overflow-y: scroll;">
+	<!--div  class="twitter-timeline" class='jekyll-twitter-plugin' -->
+		<!-- a class="twitter-timeline" data-tweet-limit="5" href="https://twitter.com/gasaapa?ref_src=twsrc%5Etfw" -->
+		Tweets by gasaapa
+		<!-- /a -->
+		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		  			<!-- /div -->
-					</div>
+	</div>
 	<!-- div class='jekyll-twitter-plugin' align="left" style="float: left; width: 400px; height: 280px; overflow-y: scroll;">{% twitter https://twitter.com/gasaapa maxwidth=390 limit=5 %}</div> -->
         {% endif %}
     </a>
