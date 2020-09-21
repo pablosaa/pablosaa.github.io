@@ -5,7 +5,7 @@ description: My personal WebSite/Portfolio about my work and research
 twitter_username: gasaapa
 github_username: https://github.com/pablosaa
 markdown: kramdown
-baseurl: pablosaa
+<!-- baseurl: pablosaa -->
 exclude: ['README.md']
 PDFmiub: http://www.meteo.uni-bonn.de/mitarbeiter/pablo-saavedra-garfias
 plugings: ['jekyll-twitter-plugin']
