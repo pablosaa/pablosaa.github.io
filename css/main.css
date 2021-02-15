@@ -35,7 +35,7 @@ nav.mainmenu ul li{
 
 a {
     text-decoration: none;
-    color: #777;
+    color: #999;
 }
 a:hover, .container a:hover {
     text-decoration: underline;
@@ -97,7 +97,7 @@ ul.posts li {
   font-size: 1.4vw;
 }
 .container a{
-  color: #00b300; /*#DD0101; */
+  color: #1133ff; /*#DD0101; */
 }
 
 #atgallery {
@@ -128,8 +128,8 @@ ul.posts li {
    font-size: 1.7vw;
    text-align:center;
    float:left;
-   color:#0099FF;
-   width:45%;
+   color:#0055FF;
+   width:75%;
    padding-top:20px;
 
 }
@@ -189,6 +189,40 @@ ul.posts li {
 #icon_linkedin:hover {
   fill: #0077B5;
   title: "Lin";
+}
+#icon_cplusplus:hover {
+    fill: #0011ff;
+    width: 35px;
+}
+#icon_c:hover {
+    fill: #1187ff;
+    width: 35px;
+}
+#icon_matlab:hover {
+    width: 35px;
+    fill: #bb7700;
+    title: "MATLAB";
+}
+#icon_julia:hover {
+    fill: #7766dd;
+    width: 35px;
+}
+#icon_gnu:hover {
+    fill: #33333;
+    width: 35px;
+}
+#icon_linux:hover {
+    fill: #221122;
+    width: 35px;
+}
+#icon_fortran:hover {
+    fill: #22ff99;
+    width: 35px;
+}
+#icon_octave:hover {
+    fill: #eeaa11;
+    width: 35px;
+	  
 }
 /*youTube #CD201F, LinkedIn #0077B5, PayPal #00457C, Jekyll #CC0000 */
 

@@ -5,20 +5,37 @@ layout: withcaratula
 {{ content }}
 <table>
   {% for infile in page.thecodes %}
-  {% capture tempmd %}{% include thecodes/{{infile.namefile }} %}{% endcapture %}
-  <hr/>
-  <div style="float:left;width:30%;">
-    <h3> <a alt="Link to code" href="{{site.github_username}}/{{infile.linkcode}}"> {{infile.name}} </a></h3>
-    {% if infile.codelogo %}
-      <img src="{{infile.codelogo}}" style="width:90%;height:auto;" >
+  {% capture tempmd %}
+  {% if infile.namefile %}
+  {% include thecodes/{{infile.namefile }} %}
+  {% else %}
+  {{infile.abstract }}
+  {% endif %}
+  {% endcapture %}
+  <tr height="10%">
+    <th width="40%" align="center" bgcolor="#aaaaaa">
+      <a alt="Link to code" href="{{site.github_username}}/{{infile.linkcode}}"> {{infile.name}} </a>{% if infile.doi %}
+      {{infile.doi}}
+      <!-- <img src="{{infile.codelogo}}" style="width:10%;height:auto;" > -->
     {% endif %}
-  </div>
-  <div>
-    <p>
-      {{ tempmd  | markdownify | slice:0,800 }}
-      ...See more at <a alt="Link to repository" href="{{site.github_username}}/{{infile.linkcode}}">Repository.</a>
-    </p>
-  </div>
-  <br />
+    </th>
+    <th align="left">
+      {%- if infile.language -%}{% for alang in infile.language %}{% include icons/software/{{alang}}.svg %}{% endfor %}{% endif %}
+    </th>
+  </tr>
+  <tr>
+    <td colspan=2>
+  <!-- <hr/> <div style="float:center;width:95%;height:10%;">
+     <h3> <a alt="Link to code" href="{{site.github_username}}/{{infile.linkcode}}"> {{infile.name}} </a></h3> -->
+     <div style="margin-left: 35px;">
+       <a alt="Link to repository" href="{{site.github_username}}/{{infile.linkcode}}"> Repository</a> status: {{infile.status}}.
+       {{- tempmd  | markdownify -}}
+    </div>  
+    </td>
+  </tr>
+  <!-- </div>  | slice:0,500
+  <div> -->
+      
+  <!-- </div> <br />-->
   {% endfor %}
 </table>

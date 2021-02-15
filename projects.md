@@ -1,9 +1,9 @@
 ---
 layout: withcaratula
 page: research
-title: Research Interest and Projects
-vorworte: This page summarizes my research activity in actual and past projects where I have been involved at.
-caratula: images/fronts/pencil.png
+title: Research Projects
+vorworte: Research activity in actual and former projects
+<!-- caratula: images/fronts/pencil.png-->
 ---
 
 [ Projects ](#research-projects){:style="background-color: none;"} |
