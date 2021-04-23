@@ -2,11 +2,6 @@
 layout: mygallery
 title: 'Pablo Saavedra Portfolio'
 einheit:
-  - topic: 'In Twitter'
-    linkto: https://twitter.com/gasaapa
-    caption: All twitts are my personal opinion ;)
-    tag: embed
-    date: 2020-Sep-15
   - topic: 'COTUR Experiment, press coverage'
     linkto: 'https://www.norceresearch.no/nyheter/vind-viser-vei?fbclid=IwAR3muD_NP4gzSshsu5Kta4Q2KU2N26AiZ0sFOxF4v2v2jgsq7T1YCcrFxOM'
     bild: 'https://norce.s3.amazonaws.com/Obrestad002.JPG'
