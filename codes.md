@@ -1,11 +1,11 @@
 ---
 layout: mycodes
-title: Scientific codes
-vorworte: Selected codes/projects hosted in public repositories, sorted chronologically top to bottom.
+title: Scientific programin
+vorworte: Selected open source codes/projects hosted in public repositories.
 <!-- caratula: images/fronts/laptop.png -->
 thecodes:
   - name: 'ARMtools.jl'
-    abstract: Julia ARM package containing some tools to read and process data from the DOE ARM facility. 
+    abstract: Julia package containing some tools to read and process data from the DOE ARM facility. 
     linkcode: ARMtools.jl
     language: {julia, gnu}
     status: under development
