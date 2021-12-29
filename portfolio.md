@@ -19,8 +19,8 @@ einheit:
     tag: figure
     date: 2012-Sep-24
   - topic: 'EGU Image Geo Gallery'
-    linkto: https://imaggeo.egu.eu/user/330
-    bild: https://static3.imaggeo.egu.eu/media/thumbs/previews/2014/07/23/2500.jpg.1024x768_q90.jpg
+    linkto: https://imaggeo.egu.eu/user/pablosaa/
+    bild: https://cdn.imaggeo.egu.eu/media/thumbs/previews/2011/03/07/707.jpg.1600x1200_q85.webp
     caption: |
       This is the link to my European Geosciences Union (EGU) Image gallery. I tried to keep it updated with pictures usually taken during my work on the field.
     tag: figure

@@ -18,10 +18,10 @@ vorworte: Research activity in actual and former projects
 ![AC3 B07]({{'images/projects/arctic-amplification-logo-ac3.png' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
 **(AC)3 B07**, *Arctic Amplification*: Climate Relevant Atmospheric and Surface Processes, and Feedback Mechanisms.Sub-project Cluster B07: Investigate the influence of Sea Ice leads or polynyas on the macro- and micro-physics properties of clouds in the Arctic with remote sensing. As part of the DFG Transregional Collaborative Research Centre TR172 (AC)3 projec. [[AC3 website](https://www.ac3-tr.de/projects/cluster-b/b07/)] 
 
+### Past Projects ###
 ![OBLO]({{'images/projects/OBLO_legacy.jpg' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
 **OBLO**, *Off-shore Boundary Layer Observatory*: Studying and measuring Turbulence at the atmosphere marine boundary layer using modeling, remote sensing and in-situ techniques. Part of the "Bergen Off-shore Wind Center". [[OBLO website](https://oblo.w.uib.no)]
 
-### Past Projects ###
 ![for2131 show]({{'images/projects/TB_SMAPcube.png'|relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 30%"}
 **FOR2131**, *Sub-Project P2*: Scale-Problem in Assimilation of Passive Microwave Observations into Coupled Models.
 My main work is to generate virtual satellite observations alike the measurements performed by the ESA SMOS and the NASA SMAP satellites. Both satellites carry on board passive Microwave radiometers, and their measurements are mainly used to retrieve land surface properties like soil moisture. [[for2131 website](http://www.for2131.de)]
