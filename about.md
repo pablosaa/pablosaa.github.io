@@ -7,22 +7,22 @@ title: About me
 
 <a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a>
 <p>
-I am a PostDoc at the Leipzig University's  <a href="https://home.uni-leipzig.de/remsensarctic/index.php?lang=en" title="Remote Sensing">Remote Sensing and Arctic Climate</a> group. My reseach is focused on the influence of Sea-ice leads on Arctic macro- and micro-physical cloud properties.
+I am a PostDoc at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. My reseach is focused on the influence of Sea-ice leads on Arctic macro- and micro-physical cloud properties.
 </p>
 <p>
 From 2018 to 2020 I was at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I was a Researcher at the Off-shore Boundary Layer Observatory <a href="https://oblo.w.uib.no/" title="Off-shore Boundary Layer Observatory">(OBLO)</a> working with inversion techniques applied to remote sensing measurements of the Atmospheric Marine Boundary Layer.
 </p>
 <p>
-Until March 2018 I've been working at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>, my <em>Alma mater</em>. There, I also obtained the Doctoral degree on Polarimetric Microwave Remote Sensing for precipitating Atmospheres. Formerly I got the degree in Physics from the University <em>Mayor de San Andrés</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Carrera de Fisica</a>  in La Paz, Bolivia.<br/>
+Until March 2018 I've been working at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>, my <em>Alma mater</em>. There, I also obtained the Doctoral degree on Polarimetric Microwave Remote Sensing for precipitating Atmospheres. Formerly I got the degree in Physics from the University <em>Mayor de San Andrés</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Physics Department</a> in La Paz, Bolivia.<br/>
 </p>
 
 <p> My research interest covers:
 <ul>
   <li> Arctic Boundary Layer Clouds. Precipitation and Cloud Microphysics,</li>
-  <li> Microwave Passive Radiometry and synergy of Passive-Active sensors,</li>
+  <li> Microwave Passive Radiometry and Active-Passiv sensors synergy,</li>
   <li> Inversion Methods for Estimation of Atmospheric Parameters,</li>
   <li> Radiometric Forward Operatiors for SMOS and SMAP Satellites,</li>
-  <li> Global Precipitation Measurements GMP Satellite Validation,</li>
+  <li> Global Precipitation Measurements GPM Satellite Validation,</li>
   <li> Effects of Cloudiness on UV Radiation,</li>
   <li> Development of Open Source Scientific Software.</li>
 </ul>
