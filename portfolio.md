@@ -20,7 +20,7 @@ einheit:
     date: 2012-Sep-24
   - topic: 'EGU Image Geo Gallery'
     linkto: https://imaggeo.egu.eu/user/pablosaa/
-    buil: https://cdn.imaggeo.egu.eu/media/thumbs/previews/2020/03/28/15507.jpg.800x600_q85.webp
+    buil: 'https://cdn.imaggeo.egu.eu/media/thumbs/previews/2020/03/28/15507.jpg.800x600_q85.webp'
     caption: |
       This is the link to my European Geosciences Union (EGU) Image gallery. I tried to keep it updated with pictures usually taken during my work on the field.
     tag: figure
