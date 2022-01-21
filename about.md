@@ -59,5 +59,5 @@ This site is developed using Jekyll, Markdown, CSS, and GNU/Emacs hosted by GitH
  <!-- Getting a lot of knowledge and inspiration from several sites and developers, mainly:<br/> -->
  <!-- Additional to my current work, I'm still keeping a work at the development of SMOS/SMAP synthetic measurements for data assimilation studies, as well as the GPM ground validation of satellite-based precipitation parameters.<br/> -->
 <!-- I'm an enthusiast for experimental work with scientific instrumentation in the Lab or field experiments with all types of instrumentation but experienced mainly working with radiometers, radars and Lidars.<br/>
-<!-- </p>
+<!-- www.svgrepo.com </p>
 <!--  <ul>    <li><a title="W3school" href="http://www.w3schools.com">W3 School</a>,</li>    <li><a title="Liquid doc" href="https://shopify.github.io/liquid">Liquid Language</a>,</li>    <li><a title="CodePen" href="https://codepen.io">Code PEN</a>,</li>   <li><a title="Cool Icons" href="https://simpleicons.org/">Cool SVG Icons</a>,</li>   <li><a title="Cool Emojis" href="https://emojipedia.org/flag-for-norway//">Emojipedia Flags</a>,</li>   <li><a title="Dhanish guy" href="http://www.dhanishgajjar.com">Dhanish</a>,</li>   <li><a title="Stack Overfow" href="http://www.stakoverflow.com">Stack Overflow</a>,</li>   <li>...and many others.</li>  </ul> -->
