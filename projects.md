@@ -36,6 +36,8 @@ My main work is to generate virtual satellite observations alike the measurement
 
 ## Field Experiments ##
 <ul><li>
+<p class="discreet"><strong>BELUGA, April 2022 - May 2022, Arctic Boundary Layer Profiling with tethering balloon</strong><strong>,<br /></strong>(Institutions involved: Uni Leipzig / LIM / TROPOS / AWIPEV), Ny Ålesund, Svalbard.</p>
+</li><li>
 <p class="discreet"><strong>COTUR, January 2019 - March 2020, Coherence and Turbulence Experiment</strong><strong>,<br /></strong>(Institutions involved: GIF / NORCE / Uni Stavanger / Uni Bergen), Obrestad Fyr-Norway.</p>
 </li><li>
 <p class="discreet"><strong>Legacy Cruise, September 2018, Haakon Kronsprins Nancen Lecacy cruise</strong><strong>,<br /></strong>(Institutions involved: GIF / UNIS / Uni Bergen), Svalbard-Norway.</p>
