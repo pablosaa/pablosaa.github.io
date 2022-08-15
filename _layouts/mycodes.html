@@ -14,22 +14,26 @@ layout: withcaratula
   {% endcapture %}
   <tr height="10%">
     <th width="40%" align="center" bgcolor="#aaaaaa">
-      <a alt="Link to code" href="{{site.github_username}}/{{infile.linkcode}}"> {{infile.name}} </a>{% if infile.doi %}
-      {{infile.doi}}
-      <!-- <img src="{{infile.codelogo}}" style="width:10%;height:auto;" > -->
-    {% endif %}
+	    <a alt="Link to code" href="{{site.github_username}}/{{infile.linkcode}}"> {{infile.name}} </a>
+	    <!-- {% if infile.doi %}{{infile.doi}} <img src="{{infile.codelogo}}" style="width:10%;height:auto;" >
+	    {% endif %} -->
     </th>
     <th align="left">
       {%- if infile.language -%}{% for alang in infile.language %}{% include icons/software/{{alang}}.svg %}{% endfor %}{% endif %}
     </th>
+    <th alight="right">
+	    {% if infile.doi %}{{infile.doi}}{% endif %}
+    </th>
   </tr>
-  <tr>
+  <tr height="15%">
     <td colspan=2>
   <!-- <hr/> <div style="float:center;width:95%;height:10%;">
      <h3> <a alt="Link to code" href="{{site.github_username}}/{{infile.linkcode}}"> {{infile.name}} </a></h3> -->
      <div style="margin-left: 35px;">
-       <a alt="Link to repository" href="{{site.github_username}}/{{infile.linkcode}}"> Repository</a> status: {{infile.status}}.
-       {{- tempmd  | markdownify -}}
+	     <!-- <a alt="Link to repository" href="{{site.github_username}}/{{infile.linkcode}}"> Repository</a> status: {{infile.status}}. -->
+       <details><summary>Click to see code description</summary>
+       {{- tempmd  | markdownify -}} Status: {{infile.status}}.
+       </details>
     </div>  
     </td>
   </tr>

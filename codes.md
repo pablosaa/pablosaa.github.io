@@ -1,14 +1,14 @@
 ---
 layout: mycodes
-title: Scientific programin
-vorworte: Selected open source codes/projects hosted in public repositories.
+title: Scientific programing
+vorworte: Selected open source codes/projects.
 <!-- caratula: images/fronts/laptop.png -->
 thecodes:
   - name: 'ARMtools.jl'
     abstract: Julia package containing some tools to read and process data from the DOE ARM facility. 
     linkcode: ARMtools.jl
     language: {julia, gnu}
-    status: under development
+    status: active
   - name: 'HATPRO DaBinIO'
     namefile: hatpro_dabinio.md
     linkcode: HATPRO-DABINIO
@@ -20,13 +20,13 @@ thecodes:
     linkcode: WindCube
     codelogo: images/fronts/laptop.png
     language: {cplusplus, mathworks, octave, gnu, linux}
-    status: active
+    status: inactive
   - name: 'Wyoming Radiosonde'
     namefile: Wyosondes.md
     linkcode: WyoSondes
     codelogo: images/software/wyosondes.png
     language: {mathworks, octave, gnu, linux}
-    status: active
+    status: inactive
   - name: 'Radiative Transfer RT4 Atmosphere'
     namefile: RT4atmosphere.md
     linkcode: RT4_ATMOSPHERE
@@ -39,14 +39,14 @@ thecodes:
     codelogo: images/projects/TB_SMAPcube.png
     doi: '<a href="https://doi.org/10.5281/zenodo.3516115"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3516115.svg" alt="DOI"></a>'
     language: {fortran, gnu, linux}
-    status: active
+    status: curated
   - name: 'Processor SMOS L1C'
     namefile: ProceSMOSL1C.md
     linkcode: Process_SMOS_L1C
     codelogo: images/software/SMOS_World_TBx.png
     doi: '<a href="http://doi.org/10.5281/zenodo.1036856"><img src="https://zenodo.org/badge/81903236.svg"></a>'
     language: {cplusplus, mathworks, octave, gnu, linux}
-    status: curated
+    status: legacy 
   - name: 'MRR Spectrum Processor'
     namefile: MRR4ADMI.md
     linkcode: RAW-Spectrum-MRR
