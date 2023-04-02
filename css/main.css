@@ -190,38 +190,40 @@ ul.posts li {
   fill: #0077B5;
   title: "Lin";
 }
+
+/* Programing language Icons hover effects */
 #icon_cplusplus:hover {
     fill: #0011ff;
-    width: 35px;
+    width: 30px;
 }
 #icon_c:hover {
     fill: #1187ff;
-    width: 35px;
+    width: 30px;
 }
 #icon_matlab:hover {
-    width: 35px;
+    width: 30px;
     fill: #bb7700;
     title: "MATLAB";
 }
 #icon_julia:hover {
     fill: #7766dd;
-    width: 35px;
+    width: 30px;
 }
 #icon_gnu:hover {
-    fill: #33333;
-    width: 35px;
+    fill: #a10015;
+    width: 30px;
 }
 #icon_linux:hover {
-    fill: #221122;
-    width: 35px;
+    fill: #ffff00;
+    width: 30px;
 }
 #icon_fortran:hover {
     fill: #22ff99;
-    width: 35px;
+    width: 30px;
 }
 #icon_octave:hover {
-    fill: #eeaa11;
-    width: 35px;
+    fill: #00ccff;
+    width: 30px;
 	  
 }
 /*youTube #CD201F, LinkedIn #0077B5, PayPal #00457C, Jekyll #CC0000 */

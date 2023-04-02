@@ -1,7 +1,7 @@
 ---
 layout: mycodes
 title: Scientific programing
-vorworte: Selected open source codes/projects.
+vorworte: Selected open source codes/software.
 <!-- caratula: images/fronts/laptop.png -->
 thecodes:
   - name: 'ARMtools.jl'
