@@ -7,7 +7,7 @@ title: About me
 
 <a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a>
 <p>
-I am a PostDoc at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. My reseach is focused on the influence of sea-ice leads on Arctic macro- and microphysical cloud properties.
+Currently a PostDoc at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. My reseach is focused on the influence of sea-ice leads on Arctic macro- and microphysical cloud properties.
 </p>
 <p>
 From 2018 to 2020 I was at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I was a Researcher at the Off-shore Boundary Layer Observatory <a href="https://oblo.w.uib.no/" title="Off-shore Boundary Layer Observatory">(OBLO)</a> working with inversion techniques applied to remote sensing measurements of the Atmospheric Marine Boundary Layer.
@@ -18,7 +18,7 @@ Until March 2018 I've been working at the <a title="Alma Mater" href="https://un
 
 <p> My research interest covers:
 <ul>
-  <li> Arctic Boundary Layer Clouds. Precipitation and Cloud Microphysics,</li>
+  <li> Arctic Sea Ice and Boundary Layer Clouds. Precipitation and Cloud Microphysics,</li>
   <li> Microwave Passive Radiometry and Active-Passiv sensors synergy,</li>
   <li> Inversion Methods for Estimation of Atmospheric Parameters,</li>
   <li> Radiometric Forward Operatiors for SMOS and SMAP Satellites,</li>
@@ -46,14 +46,15 @@ Until March 2018 I've been working at the <a title="Alma Mater" href="https://un
   <li> Deutsche Physikalishe Geselshaft (DFG),</li>
   -->
 </ul>
-<p>
+<!-- <p>
 PS. <em>I'm still trying to keep my old websites in the following links:
 <a title="portafolio" href="{{'portfolio.html' | relative_url}}">Portfolio</a>,
 <a title="2010-2017 MIUB website" href="{{site.PDFmiub}}" target="\_blank">(2010-2016 website)</a>, and
 <a title="2005-2009 was at Yahoo-pages" href="http://www2.meteo.uni-bonn.de/admirari" target="\_blank">(2005-2009 website)</a>
-</em>
+</em> 
 <br/>
 </p>
+-->
 <h4> About this web site </h4>
 This site is developed using Jekyll, Markdown, CSS, GNU/Emacs and hosted by GitHub-pages.
 
