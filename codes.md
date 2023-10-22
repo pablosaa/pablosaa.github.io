@@ -4,6 +4,12 @@ title: Scientific programing
 vorworte: Selected open source codes/software.
 <!-- caratula: images/fronts/laptop.png -->
 thecodes:
+  - name: 'CloudnetTools.jl'
+    abstract: Julia package for processing and basic visualization using Cloudnet with data from the DOE ARM facility. 
+    linkcode: CloudnetTools.jl
+    doi: '<a href="https://doi.org/10.5281/zenodo.7245670"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7245670.svg" alt="DOI"></a>'
+    language: {julia, gnu}
+    status: active
   - name: 'ARMtools.jl'
     abstract: Julia package containing some tools to read and process data from the DOE ARM facility. 
     linkcode: ARMtools.jl
