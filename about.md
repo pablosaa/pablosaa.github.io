@@ -7,7 +7,7 @@ title: About me
 
 <a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a>
 <p>
-Currently a PostDoc at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. My reseach is focused on the influence of sea-ice leads on Arctic macro- and microphysical cloud properties.
+Former PostDoc at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. My research was focused on the influence of sea-ice leads on Arctic macro- and microphysical cloud properties.
 </p>
 <p>
 From 2018 to 2020 I was at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I was a Researcher at the Off-shore Boundary Layer Observatory <a href="https://oblo.w.uib.no/" title="Off-shore Boundary Layer Observatory">(OBLO)</a> working with inversion techniques applied to remote sensing measurements of the Atmospheric Marine Boundary Layer.

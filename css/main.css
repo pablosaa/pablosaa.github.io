@@ -166,6 +166,10 @@ ul.posts li {
   fill: #E4405F;
   title: "Instagram";
 }
+#icon_bluesky:hover {
+  fill: #0285FF;
+  title: "BlueSky";
+}
 #icon_twitter:hover {
   fill: #1DA1F2;
   title: "Twitter";
@@ -179,7 +183,7 @@ ul.posts li {
   title: "FB";
 }
 #icon_email:hover {
-  fill: #909100;
+  fill: #992211;
   title: "eMail me!";
 }
 #icon_rgate:hover {
