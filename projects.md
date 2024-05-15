@@ -16,7 +16,7 @@ vorworte: Research activity in actual and former projects
 
 ## Research Projects ##
 ![AC3 B07]({{'images/projects/arctic-amplification-logo-ac3.png' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
-**(AC)3 B07**, *Arctic Amplification*: Climate Relevant Atmospheric and Surface Processes, and Feedback Mechanisms.Sub-project Cluster B07: Investigate the influence of Sea Ice leads or polynyas on the macro- and micro-physics properties of clouds in the Arctic with remote sensing. As part of the DFG Transregional Collaborative Research Centre TR172 (AC)3 projec. [[AC3 website](https://www.ac3-tr.de/projects/cluster-b/b07/)] 
+**(AC)3 B07 Phase-II**, *Arctic Amplification*: Climate Relevant Atmospheric and Surface Processes, and Feedback Mechanisms.Sub-project Cluster B07: Investigate the influence of Sea Ice leads or polynyas on the macro- and micro-physics properties of clouds in the Arctic with remote sensing. As part of the DFG Transregional Collaborative Research Centre TR172 (AC)3 projec. [[AC3 website](https://www.ac3-tr.de/projects/cluster-b/b07/)] 
 
 ### Past Projects ###
 ![OBLO]({{'images/projects/OBLO_legacy.jpg' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
