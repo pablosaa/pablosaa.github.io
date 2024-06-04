@@ -126,12 +126,11 @@ ul.posts li {
    font-style:italic;
    font-size: 17pt;
    font-size: 1.7vw;
-   text-align:center;
+   text-align:left;
    float:left;
    color:#0055FF;
-   width:75%;
+   width:65%;
    padding-top:20px;
-
 }
 .colorstrip {
   width: 100%;
@@ -178,9 +177,9 @@ ul.posts li {
   fill: #00AFF0;
   title: "Skype";
 }
-#icon_facebook:hover {
-  fill: #3B5998;
-  title: "FB";
+#icon_zenodo:hover {
+  fill: #1682D4;
+  title: "Zenodo";
 }
 #icon_email:hover {
   fill: #992211;
@@ -188,7 +187,11 @@ ul.posts li {
 }
 #icon_rgate:hover {
   fill: #00D1AF;
-  title: "ResearchG";
+  title: "Research-Gate";
+}
+#icon_googlescholar:hover {
+  fill: #4285F4;
+  title: "Google-Scholar";
 }
 #icon_linkedin:hover {
   fill: #0077B5;
@@ -262,7 +265,7 @@ ul.posts li {
   background: #334d4d;
   color: white;
   font-family: 'Purisa','Hermetic';
-  font-weight: 100;
+  font-weight: normal;
   font-size: 2.7vw;
 }
 .fa-science span:after {

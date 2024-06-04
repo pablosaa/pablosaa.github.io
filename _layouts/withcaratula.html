@@ -3,12 +3,19 @@ layout: default
 ---
 
 <div id="meinvorwort">
-  {% if page.vorworte %}{{ page.vorworte }}{% else %}<h3>{{ page.title }}</h3>{% endif %}</div>
-<br/>
+  {% if page.vorworte %}{{ page.vorworte }}{% else %}<em>{{ page.title }}</em>{% endif %}
+</div>
 {% if page.caratula %}
 <p style="text-align:right;">
-    <img src="{{ page.caratula }}" alt="{{ page.title }}" width="30%" height="auto">
-</p><br/>
+<img src="{{ page.caratula }}" alt="{{ page.title }}" width="20%" height="auto">
+</p>
+{% endif %}
+{% if page.icons %}
+{% for ii in page.icons %}
+{% capture iitem %}{{ii}}{% endcapture %}
+{% assign iitem2=site.data.externalsites[iitem] %}
+<a href="{{ iitem2.link }}" alt="{{ iitem2.alt}}" target="_blank">{% include icons/{{ ii }}.svg %}</a> &ensp;
+{% endfor %}
 {% endif %}
 <hr style="clear:both;" />
 {{ content }}

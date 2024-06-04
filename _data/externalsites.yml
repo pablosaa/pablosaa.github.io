@@ -1,0 +1,48 @@
+email: 
+  icon: icons/email.svg
+  link: mailto:pablo.saavedra@uni-leipzig.de
+  alt: Email me
+
+orcid:
+  icon: icons/orcid.svg
+  link: https://orcid.org/0000-0002-4596-946X
+  alt: OrcID Profile
+
+github:
+  icon: icons/github.svg
+  link: https://github.com/pablosaa
+  alt: GitHub Repos
+
+zenodo:
+  icon: icons/zenodo.svg
+  link: https://zenodo.org/search?q=%22Saavedra%20Garfias%22&l=list&p=1&s=10&sort=bestmatch
+  alt: Zenodo contributions
+
+googlescholar:
+  icon: googlescholar.svg
+  link: https://scholar.google.com/citations?user=FygcoNsAAAAJ&hl=en 
+
+researchgate:
+  icon: researchgate.svg
+  link: https://researchgate.net/profile/Pablo_Saavedra_Garfias
+
+instagram:
+  icon: instagram.svg
+  link: https://instagram.com/_dunklewolke
+
+creativecommons:
+  icon: creativecommons.svg
+  link: https://imaggeo.egu.eu/user/pablosaa/
+
+bluesky:
+  icon: bluesky.svg
+  link: https://bsky.app/profile/dunklewolke.bsky.social
+
+twitter:
+  icon: twitter.svg
+  link: https://twitter.com/_DunkleWolke
+
+skype:
+  icon: skype.svg
+  link: skype:pablo.saa?userinfo
+

@@ -2,6 +2,7 @@
 layout: mycodes
 title: Scientific programing
 vorworte: Selected open source codes/software.
+icons: {github, zenodo}
 <!-- caratula: images/fronts/laptop.png -->
 thecodes:
   - name: 'CloudnetTools.jl'
