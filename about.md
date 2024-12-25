@@ -7,12 +7,12 @@ icons: {orcid, bluesky, twitter, instagram, skype, creativecommons}
 
 <!-- a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a -->
 <p>
-Former PostDoc at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. My research was focused on the influence of sea-ice leads on Arctic macro- and microphysical cloud properties.
+Former PostDoc Fellow at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. <!--- My research was focused on the influence of sea-ice leads on Arctic macro- and microphysical cloud properties.
 </p>
-<p>
-From 2018 to 2020 I was at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a> where I was a Researcher at the Off-shore Boundary Layer Observatory <a href="https://oblo.w.uib.no/" title="Off-shore Boundary Layer Observatory">(OBLO)</a> working with inversion techniques applied to remote sensing measurements of the Atmospheric Marine Boundary Layer.
+<p> -->
+From 2018 to 2020, Researcher at the <a href="https://www.uib.no/gfi" title="Geofysisk Institutt (GFI)">Geophysical Institute</a>, <a href="https://uib.no" title="Universitetet i Bergen (UiB)">University of Bergen</a>, Off-shore Boundary Layer Observatory <a href="https://oblo.w.uib.no/" title="Off-shore Boundary Layer Observatory">(OBLO)</a> <!-- working with inversion techniques applied to remote sensing measurements of the Atmospheric Marine Boundary Layer.
 </p>
-<p>
+<p> -->
 Until March 2018 I've been working at the <a title="Alma Mater" href="https://uni-bonn.de">University of Bonn</a>, my <em>Alma mater</em>. There, I also obtained the Doctoral degree on Polarimetric Microwave Remote Sensing for precipitating Atmospheres. Formerly I got the degree in Physics from the University <em>Mayor de San Andrés</em>, <a title="Alma Mater Fisica" href="http://www.fiumsa.edu.bo">Physics Department</a> in La Paz, Bolivia.<br/>
 </p>
 
@@ -29,15 +29,18 @@ Until March 2018 I've been working at the <a title="Alma Mater" href="https://un
 </p>
 
 <!-- <p>I do assist as referee for some peer reviewed publications at the (so far) following journals:</p> -->
-<details>
-  <summary>I do assist as referee for some peer reviewed publications at the (so far) following journals: (click to show!)</summary>
-<ul>
+  <p>I do assist as referee for some peer reviewed publications at the (so far) following journals:
+ <details>
+  <summary>(click to show!)</summary>
+  <ul>
+  <li> American Institute of Physics (AIP) Physics of Fluids,</li>
   <li> Journal of Geophysical Research JGR (Atmospheres),</li>
   <li> IEEE Geo-sciences Remote Sensing Letters,</li>
   <li> Journal of Atmospheric and Ocean Technology JAOT,</li>
   <li> Journal of Open Research Software JORS.</li>
 </ul>
   </details>
+</p>
 <p>Society Memberships:</p>
 <ul>
   <li> American Geophysical Society (AGU),</li>
