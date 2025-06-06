@@ -15,7 +15,10 @@ vorworte: Research activity in actual and former projects
 ***
 
 ## Research Projects ##
-![AC3 B07]({{'images/projects/arctic-amplification-logo-ac3.png' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 20%"}
+![EULIAA]({{'images/projects/Logo-Euliaa-1.png' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 10%"}
+**EULIAA**, *European Lidar Arrary for Atmospheric Climate Monitoring*: Developing a UV-laser lidar array to autonomously measure atmospheric wind and temperature from 5km to 50km and over a large observation area, day and night. [[EULIAA website](https:euliaa.eu)] 
+
+![AC3 B07]({{'images/projects/arctic-amplification-logo-ac3.png' | relative_url}}){:style="float: right; margin-right:7px; margin-top: 7px; width: 15%"}
 **(AC)3 B07 Phase-II**, *Arctic Amplification*: Climate Relevant Atmospheric and Surface Processes, and Feedback Mechanisms.Sub-project Cluster B07: Investigate the influence of Sea Ice leads or polynyas on the macro- and micro-physics properties of clouds in the Arctic with remote sensing. As part of the DFG Transregional Collaborative Research Centre TR172 (AC)3 projec. [[AC3 website](https://www.ac3-tr.de/projects/cluster-b/b07/)] 
 
 ### Past Projects ###

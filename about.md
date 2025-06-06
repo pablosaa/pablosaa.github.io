@@ -7,6 +7,9 @@ icons: {orcid, bluesky, twitter, instagram, skype, creativecommons}
 
 <!-- a href="https://orcid.org/0000-0002-4596-946X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.4em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4596-946X</a -->
 <p>
+I currently work at the Leibniz Institute for Atmospheric Physics by the University Rostock. My work at the <a href="https://euliaa.eu" title="EULIAA Project">EULIAA</a> project is focused on the development and enhancement of retrieval and analysis algorithms for home-made atmospheric lidars for the study of the upper Troposphere and Stratosphere. 
+</p>
+<p>
 Former PostDoc Fellow at the Leipzig University's  <a href="https://www.physgeo.uni-leipzig.de/en/institute-for-meteorology/research/workinggroupremotesensingandarcticclimatesystem/" title="Remote Sensing AG">Remote Sensing and Arctic Climate</a> group. <!--- My research was focused on the influence of sea-ice leads on Arctic macro- and microphysical cloud properties.
 </p>
 <p> -->
