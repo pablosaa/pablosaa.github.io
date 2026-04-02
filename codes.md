@@ -16,12 +16,18 @@ thecodes:
     linkcode: ARMtools.jl
     language: {julia, gnu}
     status: active
+- name: 'SEAICEtools.jl'
+    abstract: Julia package for reading and processing satellite sea ice data from different sensors. 
+    linkcode: SEAICEtools.jl
+    doi: '<a href="https://doi.org/10.5281/zenodo.19385023"><img src="https://zenodo.org/badge/359243976.svg" alt="DOI"></a>'
+    language: {julia, gnu}
+    status: active
   - name: 'HATPRO DaBinIO'
     namefile: hatpro_dabinio.md
     linkcode: HATPRO-DABINIO
     codelogo: images/fronts/laptop.png
     language: {cplusplus, mathworks, octave, gnu, linux}
-    status: active
+    status: inactive
   - name: 'WindCubeLib'
     namefile: windcubelib.md
     linkcode: WindCube
@@ -39,7 +45,7 @@ thecodes:
     linkcode: RT4_ATMOSPHERE
     codelogo: images/fronts/laptop.png
     language: {fortran, gnu, linux}
-    status: active
+    status: curated
   - name: 'Satellite Operator'
     namefile: SAToperator.md
     linkcode: SATOPE_CLM4CMEM
